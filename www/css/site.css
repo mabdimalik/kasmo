@@ -1,0 +1,182 @@
+:root {
+  --bg: #ffffff;
+  --fg: #1c1d1f;
+  --muted: #6b7280;
+  --panel: #f7f8f9;
+  --line: #e5e7eb;
+}
+
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--fg); }
+
+.layout {
+  display: grid;
+  grid-template-columns: 1fr 340px;
+  grid-template-rows: auto 1fr auto;
+  min-height: 100vh;
+}
+
+.site-header {
+  grid-column: 1 / -1;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem 1.2rem;
+  border-bottom: 1px solid var(--line);
+}
+
+.brand h1 { margin: 0; font-size: 1.4rem; letter-spacing: 0.5px; }
+.brand .strap { margin: 0; color: var(--muted); font-size: 0.95rem; }
+
+.controls { display: flex; gap: .5rem; align-items: center; }
+.controls input[type="search"] {
+  padding: .45rem .6rem; min-width: 240px; border: 1px solid var(--line); border-radius: .4rem;
+}
+.btn {
+  border: 1px solid var(--line);
+  background: #fff;
+  padding: .45rem .7rem;
+  border-radius: .4rem;
+  cursor: pointer;
+}
+
+.main { padding: 0; }
+.graph { width: 100%; height: calc(100vh - 140px); }
+
+.sidebar { border-left: 1px solid var(--line); background: var(--panel); padding: 1rem; }
+
+.panel h2 { margin-top: 0; font-size: 1.2rem; }
+.muted { color: var(--muted); }
+.meta-row { margin: .25rem 0; font-size: .95rem; }
+.related-list { list-style: none; padding-left: 0; }
+
+
+/* Remove extra padding so the graph can fill the main column */
+.page-columns .content { padding: 0; }
+
+/* Make the graph container fill the viewport height (minus a small buffer) */
+.graph-fill {
+  width: 100%;
+  min-height: calc(100vh - 120px);
+  display: block;
+}
+
+
+
+.site-footer {
+  grid-column: 1 / -1;
+  padding: .8rem 1.2rem;
+  border-top: 1px solid var(--line);
+  color: var(--muted);
+}
+
+
+
+#kasmo-controls {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background: var(--panel, #f7f8f9);
+  padding-top: .25rem;
+  padding-bottom: .25rem;
+}
+.kasmo-sep { margin: .6rem 0; }
+#kasmo-related-wrap h3 { margin-top: .3rem; }
+#kasmo-selected-label { margin-top: .25rem; font-weight: 600; color: #0b0c0e;}
+
+/* === Kasmo polish patch (append-only) === */
+
+/* palette & tokens */
+:root{
+  --accent: #c0504d;           /* matches link strokes in graph */
+  --accent-strong: #a12d2a;    /* hover/active */
+  --radius: .6rem;
+}
+
+/* global type rhythm */
+html { font-size: 17px; }
+body {
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.6;
+  color: var(--fg);
+}
+
+/* headings: slightly tighter & consistent weights */
+h1 { font-weight: 800; letter-spacing: -0.01em; }
+h2 { font-weight: 700; }
+h3, h4 { font-weight: 600; }
+
+/* links: use accent, underline on hover only */
+a { color: var(--accent); text-decoration: none; }
+a:hover { color: var(--accent-strong); text-decoration: underline; }
+
+/* inputs & buttons: subtle focus using accent */
+.controls input[type="search"],
+#kasmo-search.form-control {
+  border-radius: var(--radius);
+  border-color: var(--line);
+  transition: box-shadow .15s ease, border-color .15s ease;
+}
+.controls input[type="search"]:focus,
+#kasmo-search.form-control:focus {
+  outline: none;
+  border-color: var(--accent);
+  box-shadow: 0 0 0 .18rem rgba(192,80,77,.15);
+}
+
+.btn,
+#kasmo-reset.btn,
+#kasmo-lang.btn {
+  border-radius: var(--radius);
+  transition: color .15s ease, border-color .15s ease, background .15s ease;
+}
+.btn:hover,
+#kasmo-reset.btn:hover,
+#kasmo-lang.btn:hover {
+  border-color: var(--accent);
+  color: var(--fg);          /* keep normal text color */
+  background: #fff;          /* prevent Bootstrap darkening */
+}
+
+/* dividers a touch lighter & spaced */
+.kasmo-sep{
+  border: 0; height: 1px; background: var(--line);
+  margin: .75rem 0;
+}
+
+/* sidebar headings & muted text harmony */
+#kasmo-top h4, #kasmo-related-wrap h4, #kasmo-tags-wrap h4 { margin: .5rem 0 .25rem; }
+#kasmo-top p, #kasmo-related, #kasmo-tags { color: var(--muted); }
+
+/* graph text uses the same font; labels slightly lighter halo */
+#graph svg text { font-family: inherit; }
+#graph svg text.halo { stroke-width: 2.25px; }  /* was visually heavy at 3px */
+
+/* subtle glow on the selected node (your code sets stroke-width=3 on it) */
+#graph svg circle[stroke-width="3"] {
+  filter: drop-shadow(0 0 4px rgba(161,45,42,.18));
+}
+
+/* small layout nits */
+.quarto-title-block { margin-bottom: .8rem; }   /* give more room to the graph */
+.graph-fill { min-height: calc(100vh - 136px); }/* sync with tighter title block */
+
+/* responsive: keep things comfy on narrower screens */
+@media (max-width: 992px){
+  .controls input[type="search"]{ min-width: 200px; }
+}
+
+
+/* About page back button */
+.about-back{ display:flex; justify-content:flex-end; margin:.25rem 0 1rem; }
+.btn-back{
+  display:inline-block; padding:.4rem .7rem; border:1px solid var(--line);
+  border-radius:.6rem; background:#fff; color: var(--fg); text-decoration:none;
+  transition: border-color .15s ease, box-shadow .15s ease;
+}
+.btn-back:hover{
+  border-color: var(--accent, #c0504d);
+  box-shadow: 0 0 0 .18rem rgba(192,80,77,.12);
+  text-decoration:none;
+}
+

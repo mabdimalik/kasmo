@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Kasmo — Somali AI Terms"
+  description: "An open collective lexicon for AI in Somali"
+  site-url: "https://kasmo.so"
+  image: "www/img/og-cover.png"
+  open-graph: true
+  twitter-card:
+    card-style: summary_large_image
+  sidebar:
+    style: docked
+    search: false
+    contents:
+      - href: index.qmd
+        text: "Kasmo"
+      - href: about.qmd
+        text: "About Kasmo"
+
+  page-footer:
+    left: "© Kasmo Gacmeed Lexicon 2025 — <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'>CC BY-NC-SA 4.0</a>"
+    right: "<a href='https://github.com/mabdimalik/' target='_blank' rel='noopener'>GitHub</a>"
+    center: "Made in Mogadishu, with ︎♥️ & [Quarto](https://quarto.org)"
+format:
+  html:
+    theme: cosmo
+    css: www/css/site.css
+    toc: false
+    smooth-scroll: true
+
+resources:
+  - data/**
+  - www/**

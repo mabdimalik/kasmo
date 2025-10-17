@@ -1,0 +1,101 @@
+---
+title: "Kasmo Gacmeed Lexicon"
+subtitle: "Kasmo bridges Somali and English to make AI concepts understandable and open to conversation. Learn more [here](about.qmd)."
+format:
+  html:
+    toc: false
+    page-layout: full
+    include-in-header:
+      text: |
+        <meta property="og:title" content="Kasmo Gacmeed Lexicon">
+        <meta property="og:description" content="An open collective lexicon for AI in Somali.">
+        <meta property="og:image" content="https://kasmo.so/www/img/og-cover.png">
+        <meta property="og:url" content="https://kasmo.so">
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:title" content="Kasmo Gacmeed Lexicon">
+        <meta name="twitter:description" content="An open collective lexicon for AI in Somali.">
+        <meta name="twitter:image" content="https://kasmo.so/www/img/og-cover.png">
+        <link rel="stylesheet" href="www/css/site.css">
+        <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+        <script defer src="www/js/graph.js"></script>
+params:
+  lang: "so"
+---
+
+<!-- Main content: pure graph -->
+<div id="graph" class="graph-fill" aria-label="Interactive network"></div>
+
+<!-- Inject our info panel into Quarto's left sidebar after the page loads -->
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  const shell = document.querySelector('#quarto-sidebar .sidebar-menu-container');
+  if (!shell) return;
+
+  shell.innerHTML = `
+    <div id="kasmo-panel">
+      <!-- TOP (sticky, never changes) -->
+      <div id="kasmo-top" class="kasmo-top">
+        <h5 class="mt-2">Select a term</h5>
+        <p class="small text-muted mb-2">
+          Click a node to see its definition and related terms.
+        </p>
+        <hr class="kasmo-sep" />
+
+   <input id="kasmo-search" type="search" class="form-control form-control-sm mb-2"
+               placeholder="Raadi / Search…" aria-label="Raadi / Search">
+  <div class="d-flex gap-2 mb-1">
+          <button id="kasmo-reset" class="btn btn-sm btn-outline-secondary">Reset</button>
+          <button id="kasmo-lang"  class="btn btn-sm btn-outline-secondary">SO / EN</button>
+    </div>
+        <hr class="kasmo-sep" />
+      </div>
+
+  <!-- SCROLLABLE content (dynamic) -->
+  <div id="kasmo-scroll" class="kasmo-scroll">
+
+   <!-- Selected term title (dynamic) -->
+  <h3 id="kasmo-selected-label" class="h5 mb-1"></h3>
+
+  <hr class="kasmo-sep" />
+
+<!-- Definition FIRST (empty until a node is selected) -->
+  <div id="kasmo-def" class="small"></div>
+
+   <hr class="kasmo-sep" />
+
+  <!-- Related BELOW the definition -->
+    <div id="kasmo-related-wrap">
+     <h4 class="h6 mb-1">Related</h4>
+     <div id="kasmo-related" class="small text-muted">—</div>
+  </div>
+
+  <hr class="kasmo-sep" />
+
+  <!-- NEW TAGS META SECTION -->
+ <div id="kasmo-tags-wrap">
+          <h4 class="h6 mb-1">Tags</h4>
+          <div id="kasmo-tags" class="small text-muted">—</div>
+    </div>
+
+   </div>
+ </div>
+  `;
+
+  // Expose to graph.js (IDs must match what graph.js expects)
+  window.KASMO_SIDEBAR = {
+    selectedLabel: document.getElementById('kasmo-selected-label'),
+    def:     document.getElementById('kasmo-def'),
+    related: document.getElementById('kasmo-related'),
+    tags:    document.getElementById('kasmo-tags'),
+    search:  document.getElementById('kasmo-search'),
+    reset:   document.getElementById('kasmo-reset'),
+    lang:    document.getElementById('kasmo-lang'),
+  };
+});
+</script>
+
+<!-- Pass initial language to JS -->
+<script>
+  window.KASMO_PARAMS = { lang: "{{ params.lang }}" };
+</script>
+
