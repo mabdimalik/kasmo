@@ -7,12 +7,12 @@ format:
     sidebar: false
 ---
 
-::: {.lead}
-Kasmo bridges Somali and English to make AI concepts understandable and open to conversation.
-:::
-
 ::: {#about-back .about-back}
 [← Back to visualization](index.html){.btn-back}
+:::
+
+::: {.lead}
+Kasmo bridges Somali and English to make AI concepts understandable and open to conversation.
 :::
 
 Kasmo is a translation initiative that brings the language of artificial intelligence into Somali. It grew from collaborative research exploring how translation can help East African societies understand, question, and shape the technologies transforming their digital lives. Kasmo’s purpose is to make the concepts behind AI accessible, open to debate, and grounded in Somali linguistic and cultural realities.
