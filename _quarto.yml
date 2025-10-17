@@ -21,7 +21,7 @@ website:
 
   page-footer:
     left: "© Kasmo Gacmeed Lexicon 2025 — <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'>CC BY-NC-SA 4.0</a>"
-    right: "<a href='https://github.com/mabdimalik/' target='_blank' rel='noopener'>GitHub</a>"
+    right: "<a href='https://github.com/mabdimalik/kasmo' target='_blank' rel='noopener'>GitHub</a>"
     center: "Made in Mogadishu, with ︎♥️ & [Quarto](https://quarto.org)"
 format:
   html:
