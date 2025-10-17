@@ -6,7 +6,7 @@ website:
   title: "Kasmo — Somali AI Terms"
   description: "An open collective lexicon for AI in Somali"
   site-url: "https://kasmo.so"
-  image: "www/img/og-cover.png"
+  image: "https://kasmo.so/www/img/og-cover.png"
   open-graph: true
   twitter-card:
     card-style: summary_large_image
