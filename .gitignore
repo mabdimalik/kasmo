@@ -1,0 +1,17 @@
+# Quarto/R
+.quarto/
+_site/
+_freeze/
+
+# R files
+.Rproj.user/
+.Rhistory
+.RData
+
+# OS
+.DS_Store
+Thumbs.db
+
+# tools
+.vscode/
+node_modules/
