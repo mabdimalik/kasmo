@@ -85,17 +85,13 @@ ul.task-list li input[type="checkbox"] {
 <meta property="og:description" content="Kasmo bridges Somali and English to make AI concepts understandable and open to conversation. Learn more [here](about.qmd).">
 <meta property="og:image" content="https://kasmo.so/www/img/og-cover.png">
 <meta property="og:site_name" content="Kasmo — Somali AI Terms">
-<meta property="og:image:height" content="630">
-<meta property="og:image:width" content="1200">
 <meta name="twitter:title" content="Kasmo Gacmeed Lexicon – Kasmo — Somali AI Terms">
 <meta name="twitter:description" content="Kasmo bridges Somali and English to make AI concepts understandable and open to conversation. Learn more [here](about.qmd).">
 <meta name="twitter:image" content="https://kasmo.so/www/img/og-cover.png">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image-height" content="630">
-<meta name="twitter:image-width" content="1200">
 </head>
 
-<body class="nav-sidebar docked">
+<body class="nav-sidebar docked fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -111,7 +107,7 @@ ul.task-list li input[type="checkbox"] {
   </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
@@ -140,7 +136,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content column-page-right" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -150,7 +146,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<div class="quarto-title-meta column-page-right">
+<div class="quarto-title-meta">
 
     
   
@@ -187,6 +183,11 @@ document.addEventListener('DOMContentLoaded', () => {
   <div class="d-flex gap-2 mb-1">
           <button id="kasmo-reset" class="btn btn-sm btn-outline-secondary">Reset</button>
           <button id="kasmo-lang"  class="btn btn-sm btn-outline-secondary">SO / EN</button>
+           <!-- NEW: segmented pager -->
+          <div id="kasmo-pager" class="btn-group-seg">
+            <button id="kasmo-prev"  class="btn btn-sm btn-outline-secondary" title="Previous term">Prev</button>
+            <button id="kasmo-next"  class="btn btn-sm btn-outline-secondary" title="Next term">Next</button>
+          </div>
     </div>
         <hr class="kasmo-sep" />
       </div>
@@ -231,6 +232,8 @@ document.addEventListener('DOMContentLoaded', () => {
     search:  document.getElementById('kasmo-search'),
     reset:   document.getElementById('kasmo-reset'),
     lang:    document.getElementById('kasmo-lang'),
+    prev:   document.getElementById('kasmo-prev'),
+    next:   document.getElementById('kasmo-next'),
   };
 });
 </script>
@@ -669,7 +672,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <p>Made in Mogadishu, with ︎♥️ &amp; <a href="https://quarto.org">Quarto</a></p>
 </div>
     <div class="nav-footer-right">
-<p><a href="https://github.com/mabdimalik/" target="_blank" rel="noopener">GitHub</a></p>
+<p><a href="https://github.com/mabdimalik/kasmo" target="_blank" rel="noopener">GitHub</a></p>
 </div>
   </div>
 </footer>

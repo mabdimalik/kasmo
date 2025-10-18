@@ -4,7 +4,6 @@ subtitle: "Kasmo bridges Somali and English to make AI concepts understandable a
 format:
   html:
     toc: false
-    page-layout: full
     include-in-header:
       text: |
         <meta property="og:title" content="Kasmo Gacmeed Lexicon">
@@ -46,6 +45,11 @@ document.addEventListener('DOMContentLoaded', () => {
   <div class="d-flex gap-2 mb-1">
           <button id="kasmo-reset" class="btn btn-sm btn-outline-secondary">Reset</button>
           <button id="kasmo-lang"  class="btn btn-sm btn-outline-secondary">SO / EN</button>
+           <!-- NEW: segmented pager -->
+          <div id="kasmo-pager" class="btn-group-seg">
+            <button id="kasmo-prev"  class="btn btn-sm btn-outline-secondary" title="Previous term">Prev</button>
+            <button id="kasmo-next"  class="btn btn-sm btn-outline-secondary" title="Next term">Next</button>
+          </div>
     </div>
         <hr class="kasmo-sep" />
       </div>
@@ -90,6 +94,8 @@ document.addEventListener('DOMContentLoaded', () => {
     search:  document.getElementById('kasmo-search'),
     reset:   document.getElementById('kasmo-reset'),
     lang:    document.getElementById('kasmo-lang'),
+    prev:   document.getElementById('kasmo-prev'),
+    next:   document.getElementById('kasmo-next'),
   };
 });
 </script>

@@ -15,3 +15,5 @@ Thumbs.db
 # tools
 .vscode/
 node_modules/
+
+/.quarto/

@@ -293,7 +293,7 @@
     {
       "id": "saadaalin",
       "tags": "Technical",
-      "degree": 10
+      "degree": 11
     },
     {
       "id": "sargoyn",
@@ -313,7 +313,7 @@
     {
       "id": "sii hagaajinta",
       "tags": "Technical",
-      "degree": 3
+      "degree": 4
     },
     {
       "id": "sinnaan laaanta dhijitaalka",
@@ -2823,6 +2823,17 @@
       "term_en": "Training Data",
       "def_so": "Waa xog la diyaariyey oo calaamadeysan (tusaale ahaan qoraal, sawirro, maqal ama muuqaal) oo loo isticmaalo in lagu baro moodeellada isbaridda mashiinka (ML) inay bartaan qaabdhismeedka xogta, saadaasha, ama inay qabtaan hawlo gaar ah. Xogta tababarka waxay ka kooban tahay xog-gelis ah iyo natiijada saxda ah (calaamadda), taasoo u suurtogalinaysa moodeelka inuu wax ka barto waayo-aragnimadiisa. Tayada, tirada, iyo kala duwanaanshaha xogta tababarka waxay si toos ah u saameeyaan waxsoosaarka AI KG.",
       "def_en": "Training data refers to a curated set of labeled data (or examples) —such as text, images, audio, or video—that is used to teach a machine learning (ML) model how to recognize patterns, make predictions, or perform specific tasks. Training data includes both the input data and the correct output (label), enabling the model to learn from experience. The quality, quantity, and diversity of training data directly impact the performance and generalization ability of the resulting AI system",
+      "relation": "link",
+      "directed": true
+    },
+    {
+      "source_id": "saadaalin",
+      "target_id": "sii hagaajinta",
+      "weight": 2,
+      "term_so": "Saadaalin",
+      "term_en": "Prediction",
+      "def_so": "Waa bayaan sheegaya waxa aad filayso inay dhici doonto; falka ah in la sameeyo bayaan noocaas ah.",
+      "def_en": "A statement that says what you think will happen; the act of making such a statement.",
       "relation": "link",
       "directed": true
     }

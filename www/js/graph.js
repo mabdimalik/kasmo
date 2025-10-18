@@ -22,9 +22,16 @@
   const resetBtn = panel.reset;
   const langBtn  = panel.lang;
 
+  // (Optional) Prev/Next buttons if you added them in index.qmd
+  const prevBtn  = panel.prev || null;
+  const nextBtn  = panel.next || null;
+
   // Lang param
   window.KASMO_PARAMS = window.KASMO_PARAMS || { lang: "so" };
   const lang = () => (window.KASMO_PARAMS.lang || "so");
+
+  // Track last selection for Prev/Next
+  let currentId = null;
 
   // Sizing
   const el = document.getElementById("graph");
@@ -127,7 +134,7 @@
     .domain([1, d3.max(links, d => d.weight) || 1])
     .range([0.6, 2.8]);
 
-    // Cap label size so hubs don't dominate
+  // Cap label size so hubs don't dominate
   const MAX_LABEL_PX = 22;
   const labelSize = d3.scaleLinear()
     .domain([1, d3.max(nodes, d => d._deg || 1) || 1])
@@ -348,8 +355,33 @@
     sidebar.tags.classList.add("small", "text-muted");
     sidebar.tags.textContent = tag || "—";
 
+    // remember current selection for Prev/Next
+    currentId = d.id;
+
     emphasizeSelection(d);
     history.replaceState(null, "", `#id=${encodeURIComponent(d.id)}`);
+  }
+
+  // --- Prev/Next helpers (use current language sort order) ---
+  function orderedIdsByLabel() {
+    const arr = nodes.slice().sort((a, b) =>
+      nodeLabel(a).localeCompare(nodeLabel(b), undefined, { sensitivity: 'base' })
+    );
+    return arr.map(d => d.id);
+  }
+  function selectByOffset(step) {
+    const order = orderedIdsByLabel();
+    const len = order.length;
+    let idx = 0;
+
+    if (currentId && idIndex.has(currentId)) {
+      const pos = order.indexOf(currentId);
+      idx = pos >= 0 ? pos : 0;
+    }
+    const nextIdx = (idx + step + len) % len;
+    const id = order[nextIdx];
+    const d = nodes[idIndex.get(id)];
+    selectNode(d);
   }
 
   // URL hash OR default to central node on first load  ★
@@ -361,7 +393,7 @@
     selectNode(nodes[idIndex.get(fromHash)]);
   } else {
     const central = findCentralNode();
-    if (central) selectNode(central);
+    if (central) selectNode(central);  // this sets currentId too
   }
 
   // Search
@@ -402,18 +434,27 @@
     // ★ reset zoom/pan and then show central node again
     resetView();
     const central = findCentralNode();
-    if (central) selectNode(central);
+    if (central) selectNode(central);   // sets currentId as well
   });
 
+  // Language toggle keeps current selection; labels update
   langBtn.addEventListener("click", () => {
     window.KASMO_PARAMS.lang = (lang() === "so") ? "en" : "so";
     // Update all labels immediately
     label.text(d => nodeLabel(d));
-    // If a node is selected via hash, refresh sidebar + emphasis
-    const id = (window.location.hash.match(/id=([^&]+)/) || [])[1];
-    if (id && idIndex.has(decodeURIComponent(id))) {
-      const n = nodes[idIndex.get(decodeURIComponent(id))];
-      selectNode(n);
+
+    // Re-render the same node in the other language (if selected)
+    if (currentId && idIndex.has(currentId)) {
+      selectNode(nodes[idIndex.get(currentId)]);
+    } else {
+      const id = (window.location.hash.match(/id=([^&]+)/) || [])[1];
+      if (id && idIndex.has(decodeURIComponent(id))) {
+        selectNode(nodes[idIndex.get(decodeURIComponent(id))]);
+      }
     }
   });
+
+  // Wire Prev/Next if present
+  if (prevBtn) prevBtn.addEventListener('click', () => selectByOffset(-1));
+  if (nextBtn) nextBtn.addEventListener('click', () => selectByOffset(1));
 })();

@@ -51,8 +51,11 @@ body { background: var(--bg); color: var(--fg); }
 .related-list { list-style: none; padding-left: 0; }
 
 
-/* Remove extra padding so the graph can fill the main column */
-.page-columns .content { padding: 0; }
+/* Remove extra padding so the graph can fill the main column
+   (only on small screens; wide screens respect sidebar width) */
+@media (max-width: 991.98px){
+  .page-columns .content { padding: 0; }
+}
 
 /* Make the graph container fill the viewport height (minus a small buffer) */
 .graph-fill {
@@ -61,16 +64,12 @@ body { background: var(--bg); color: var(--fg); }
   display: block;
 }
 
-
-
 .site-footer {
   grid-column: 1 / -1;
   padding: .8rem 1.2rem;
   border-top: 1px solid var(--line);
   color: var(--muted);
 }
-
-
 
 #kasmo-controls {
   position: sticky;
@@ -111,7 +110,7 @@ a { color: var(--accent); text-decoration: none; }
 a:hover { color: var(--accent-strong); text-decoration: underline; }
 
 /* inputs & buttons: subtle focus using accent */
-.controls input[type="search"],
+controls input[type="search"],
 #kasmo-search.form-control {
   border-radius: var(--radius);
   border-color: var(--line);
@@ -150,7 +149,7 @@ a:hover { color: var(--accent-strong); text-decoration: underline; }
 
 /* graph text uses the same font; labels slightly lighter halo */
 #graph svg text { font-family: inherit; }
-#graph svg text.halo { stroke-width: 2.25px; }  /* was visually heavy at 3px */
+#graph svg text.halo { stroke-width: 2.25px; }
 
 /* subtle glow on the selected node (your code sets stroke-width=3 on it) */
 #graph svg circle[stroke-width="3"] {
@@ -166,7 +165,6 @@ a:hover { color: var(--accent-strong); text-decoration: underline; }
   .controls input[type="search"]{ min-width: 200px; }
 }
 
-
 /* About page back button */
 .about-back{ display:flex; justify-content:flex-end; margin:.25rem 0 1rem; }
 .btn-back{
@@ -178,5 +176,76 @@ a:hover { color: var(--accent-strong); text-decoration: underline; }
   border-color: var(--accent, #c0504d);
   box-shadow: 0 0 0 .18rem rgba(192,80,77,.12);
   text-decoration:none;
+}
+
+#kasmo-def { text-align: justify; }
+
+@media (min-width: 992px){
+  :root { --sidebar-width: 330px; }
+  #quarto-sidebar { width: var(--sidebar-width); }
+}
+
+
+@media (min-width: 992px){
+  :root { --sidebar-width: 330px; }
+  #quarto-sidebar { width: var(--sidebar-width); }
+
+  body.nav-sidebar #quarto-content .content {
+    margin-left: calc(var(--sidebar-width) - 210px) !important;
+  }
+}
+
+
+#kasmo-prev.btn,
+#kasmo-next.btn {
+  padding: .25rem .5rem !important;   /* Bootstrap .btn-sm padding */
+  font-size: .875rem;                  /* Bootstrap .btn-sm font-size */
+  line-height: 1.25;                   /* slightly tighter line-height */
+  white-space: nowrap;                 /* prevent wrapping */
+}
+
+
+#kasmo-prev.btn:hover,
+#kasmo-next.btn:hover {
+  border-color: var(--accent);
+  color: var(--fg);
+  background: #fff;
+}
+
+.btn.btn-sm { padding: .25rem .5rem !important; font-size: .875rem; }
+
+/* Segmented Prev/Next — sits as one pill */
+#kasmo-pager {
+  display: inline-flex;
+}
+
+#kasmo-pager .btn {
+  padding: .25rem .5rem !important;
+  font-size: .875rem;
+  line-height: 1.25;
+  white-space: nowrap;
+}
+
+#kasmo-prev.btn {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+#kasmo-next.btn {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  margin-left: -1px;
+}
+
+#kasmo-pager .btn:hover {
+  border-color: var(--accent);
+  color: var(--fg);
+  background: #fff;
+}
+
+#kasmo-pager .btn:focus {
+  position: relative;
+  z-index: 1;
+  box-shadow: 0 0 0 .18rem rgba(192,80,77,.12);
 }
 
