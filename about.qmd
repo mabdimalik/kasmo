@@ -1,5 +1,5 @@
 ---
-title: "About Garaad"
+title: "About Kasmo"
 format:
   html:
     toc: false
@@ -8,7 +8,7 @@ format:
 ---
 
 ::: {.lead}
-Garaad bridges Somali and English to make AI concepts understandable and open to conversation.
+Kasmo bridges Somali and English to make AI concepts understandable and open to conversation.
 :::
 
 ::: {#about-back .about-back}
@@ -16,15 +16,15 @@ Garaad bridges Somali and English to make AI concepts understandable and open to
 :::
 
 
-Garaad is a translation initiative that brings the language of artificial intelligence into Somali. It grew from collaborative research exploring how translation can help East African societies understand, question, and shape the technologies transforming their digital lives. Garaad’s purpose is to make the concepts behind AI accessible, open to debate, and grounded in Somali linguistic and cultural realities.
+Kasmo is a translation initiative that brings the language of artificial intelligence into Somali. It grew from collaborative research exploring how translation can help East African societies understand, question, and shape the technologies transforming their digital lives. Kasmo’s purpose is to make the concepts behind AI accessible, open to debate, and grounded in Somali linguistic and cultural realities.
 
 The project builds on the earlier Somali Digital Rights Lexicon (2021), where Somali linguists, researchers, and journalists worked together to translate key digital rights terms. As generative AI began reshaping how knowledge is created and circulated, this effort evolved into a new phase—developing an interactive Somali–English lexicon of AI concepts. The AI lexicon you can see on this site features bi-lingual definitions for over 70 terms that are related to AI. They include technical concepts and social impacts. The lexicon is presented as a network, with links between related terms. Please click and explore. A simple PDF of the lexicon is also available here. Please download and share!
 
-Garaad was co-developed with Akadeemiya Goboleedka Af Soomaaliga (AGA) — the Intergovernmental Academy of Somali Language — during a two-day workshop in Mogadishu that brought together linguists and researchers to coin and refine new Somali terminology for AI.
+Kasmo was co-developed with Akadeemiya Goboleedka Af Soomaaliga (AGA) — the Intergovernmental Academy of Somali Language — during a two-day workshop in Mogadishu that brought together linguists and researchers to coin and refine new Somali terminology for AI.
 
 The overall project was coordinated by Dr. [Peter Chonka](https://petechonka.com/), Senior Lecturer in Global Digital Cultures at King’s College London and  Mohamed [Abdimalik](https://abdimalik.com/), Jaantus. The activity has been supported by an AHRC Impact Acceleration Grant at King’s College London. The team is grateful for the input of Somali Public Agenda, Tayo Translations and Digital Shelter in reviewing the lexicon.
 
-Garaad is still in early development—new translations, terms, and visual features will continue to evolve through dialogue with educators, journalists, and civic groups. Further validation efforts are ongoing, a launch workshop is planned in Mogadishu in early November 2025. Generative AI was not intentionally used in the development of this lexicon.
+Kasmo is still in early development—new translations, terms, and visual features will continue to evolve through dialogue with educators, journalists, and civic groups. Further validation efforts are ongoing, a launch workshop is planned in Mogadishu in early November 2025. Generative AI was not intentionally used in the development of this lexicon.
 
 ## Workshop
 

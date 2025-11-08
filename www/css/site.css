@@ -50,6 +50,20 @@ body { background: var(--bg); color: var(--fg); }
 .meta-row { margin: .25rem 0; font-size: .95rem; }
 .related-list { list-style: none; padding-left: 0; }
 
+.related-list li.related-item {
+  color: inherit;
+  cursor: pointer;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  text-decoration-thickness: 0.04em;
+}
+
+.related-list li.related-item:hover,
+.related-list li.related-item:focus-visible {
+  text-decoration-thickness: 0.08em;
+  outline: none;
+}
+
 
 /* Remove extra padding so the graph can fill the main column
    (only on small screens; wide screens respect sidebar width) */
