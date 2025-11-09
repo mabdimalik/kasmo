@@ -349,7 +349,7 @@
     const neigh = neighbors(d.id);
     const related = nodes.filter(n => n.id !== d.id && neigh.has(n.id)).slice(0, 3);
     sidebar.related.innerHTML = related.length
-      ? '<ul class="related-list">' + related.map(n => `<li>${nodeLabel(n)}</li>`).join("") + '</ul>'
+      ? '<ul class="related-list">' + related.map(n => `<li class="related-item" data-id="${n.id}" tabindex="0">${nodeLabel(n)}</li>`).join("") + '</ul>'
       : '<span class="muted">—</span>';
     const tag = (d.tags || "").trim();
     sidebar.tags.classList.add("small", "text-muted");
@@ -452,6 +452,21 @@
         selectNode(nodes[idIndex.get(decodeURIComponent(id))]);
       }
     }
+  });
+
+  // Make Related items clickable (and Enter-key accessible)
+  sidebar.related.addEventListener("click", (e) => {
+    const li = e.target.closest("li.related-item");
+    if (!li) return;
+    const id = li.dataset.id;
+    if (id && idIndex.has(id)) selectNode(nodes[idIndex.get(id)]);
+  });
+  sidebar.related.addEventListener("keydown", (e) => {
+    if (e.key !== "Enter") return;
+    const li = e.target.closest("li.related-item");
+    if (!li) return;
+    const id = li.dataset.id;
+    if (id && idIndex.has(id)) selectNode(nodes[idIndex.get(id)]);
   });
 
   // Wire Prev/Next if present
