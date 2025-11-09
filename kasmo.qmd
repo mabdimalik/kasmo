@@ -22,7 +22,7 @@ Barnaamijka Kasmo wuxuu daba socdaa “Buugyaraha Ereybixinta Xuquuqda Dhijitaal
 
 Ereybixinta aad ka arki kartid boggan wuxuu ka kooban yahay qeexitaanno laba-luuqadle/laba-afle ah oo ku saabsan in ka badan 70 erey oo la xiriira GG. Ereyada waxaa ka mid ah kuwo farsamo iyo kuwo ku saabsan saameynta bulsho ee tignoolajiyadan cusub. Ereybixinta waxaa loo soo bandhigay qaab shabakad ahaan oo si sahlan loo daalacan karo xiriirka ka dhexeeya ereyada. Fadlan guji oo la falgal.
 
-Hoos waxaad ka heli kartaa buugyaraha oo PDF ah. Fadlan dejiso oo la wadaag asxaabtaada [👉🏿 PDF](https://github.com/mabdimalik/lexicon/blob/main/Gen%20AI%20Somali%20Lexicon%20V1.0.pdf).
+Hoos waxaad ka heli kartaa buugyaraha oo PDF ah. Fadlan dejiso oo la wadaag asxaabtaada [👉🏿 PDF](https://assets.jaantus.org/kasmo_garaad_gacmeed_lexicon_112025_v1.pdf).
 
 Buugyaraha ereybixinta GG waxaa lagu diyaariyay kulan-aqooneed laba maalmood socday oo ay hormuud ka ahayd Akadeemiya Goboleedka Af Soomaaliga (AGA), laguna qabtay Muqdisho. Shirkan, oo ay ka qaybgaleen afyaqaanno iyo cilmibaareyaal ayaa lagu hal-bixiyay ereyo la xiriira GG, waxaana ka mid ahaa: (Abwaan Saciid Saalax Axmed, Prof. Cabdalla Cumar Mansuur, Cabdulqaadir Cabdulle Diini, Cabdiweli Maxamed Sh. Cumar, Cabdinaasir Cabdi Daa’uud, Cabdulqaadir Cabdi Axmed Jubba, Seynab Ugbaad). Hawshan, waxaa isku dubbariday Mohamed [Abdimalik](https://abdimalik.com/) iyo Dr. [Peter Chonka](https://petechonka.com/) waxaana taageeray barnaamijka AHRC ee Jaamacadda King’s College London. Waxaan si gaar ugu mahadcelinaynaa hey’adaha kala ah: Somali Public Agenda iyo Digital Shelter oo dib–u-eegis ku sameeyay qamuusyaraha.
 
@@ -38,7 +38,7 @@ Ereybixinta Kasmo weli kow ma joogto. Waa bar-billow waxaana si wadi doonnaa wad
 
 ![Jaldiga Buugyaraha Ereybixinta Xuquuqda Dhijitaalka ee Af Soomaaliga.](www/img/lexicon-cover.png){fig-align="left" width="60%"}
 
-Ereybixinta Xuquuqda Dhijitaalka ee Af Soomaaliga (2021). [Dejiso PDF](https://github.com/mabdimalik/lexicon/blob/main/Somali_Digital_Rights_Lexicon_FINAL.pdf)
+Ereybixinta Xuquuqda Dhijitaalka ee Af Soomaaliga (2021). [Dejiso PDF](https://assets.jaantus.org/somali_digital_rights_lexicon_final.pdf)
 
 ## Ka Qayb Qaado
 

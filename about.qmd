@@ -18,7 +18,7 @@ Kasmo bridges Somali and English to make AI concepts understandable and open to 
 
 Kasmo is a translation initiative that brings the language of artificial intelligence into Somali. It grew from collaborative research exploring how translation can help East African societies understand, question, and shape the technologies transforming their digital lives. Kasmo’s purpose is to make the concepts behind AI accessible, open to debate, and grounded in Somali linguistic and cultural realities.
 
-The project builds on the earlier Somali Digital Rights Lexicon (2021), where Somali linguists, researchers, and journalists worked together to translate key digital rights terms. As generative AI began reshaping how knowledge is created and circulated, this effort evolved into a new phase—developing an interactive Somali–English lexicon of AI concepts. The AI lexicon you can see on this site features bi-lingual definitions for over 70 terms that are related to AI. They include technical concepts and social impacts. The lexicon is presented as a network, with links between related terms. Please click and explore. A simple PDF of the lexicon is also available here. Please download [👉🏿 PDF](https://github.com/mabdimalik/lexicon/blob/main/Gen%20AI%20Somali%20Lexicon%20V1.0.pdf) and share!
+The project builds on the earlier Somali Digital Rights Lexicon (2021), where Somali linguists, researchers, and journalists worked together to translate key digital rights terms. As generative AI began reshaping how knowledge is created and circulated, this effort evolved into a new phase—developing an interactive Somali–English lexicon of AI concepts. The AI lexicon you can see on this site features bi-lingual definitions for over 70 terms that are related to AI. They include technical concepts and social impacts. The lexicon is presented as a network, with links between related terms. Please click and explore. A simple PDF of the lexicon is also available here. Please download [👉🏿 PDF](https://assets.jaantus.org/kasmo_garaad_gacmeed_lexicon_112025_v1.pdf) and share!
 
 Kasmo was co-developed with Akadeemiya Goboleedka Af Soomaaliga (AGA) — the Intergovernmental Academy of Somali Language — during a two-day workshop in Mogadishu that brought together linguists and researchers to coin and refine new Somali terminology for AI.
 
@@ -35,7 +35,7 @@ Kasmo is still in early development—new translations, terms, and visual featur
 
 ![Cover of the Somali Digital Rights Lexicon.](www/img/lexicon-cover.png){fig-align="left" width="60%"}
 
-Somali Digital Rights Lexicon (2021). [Download the PDF](https://github.com/mabdimalik/lexicon/blob/main/Somali_Digital_Rights_Lexicon_FINAL.pdf)
+Somali Digital Rights Lexicon (2021). [Download the PDF](https://assets.jaantus.org/somali_digital_rights_lexicon_final.pdf)
 
 ## Get involved
 
