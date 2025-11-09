@@ -1,6 +1,6 @@
 ---
-title: "Kasmo AI Lexicon"
-subtitle: "Kasmo bridges Somali and English to make AI concepts understandable and open to conversation. Learn more [here](about.qmd)."
+title: "Garaad Gacmeed Lexicon"
+subtitle: "Kasmo bridges Somali and English to make AI concepts understandable and open to conversation. Learn more in [English](about.qmd) or [Somali](kasmo.qmd)."
 format:
   html:
     toc: false

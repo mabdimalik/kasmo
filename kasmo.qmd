@@ -1,0 +1,49 @@
+---
+title: "About Kasmo"
+format:
+  html:
+    toc: false
+    page-layout: article
+    sidebar: false
+---
+
+::: {.lead}
+Kasmo waa barnaamij turjumaad oo af Soomaali ku soo bandhigaya ereyada la xiriira garaad gacmeedka (GG).
+:::
+
+::: {#about-back .about-back}
+[← Ku noqo shabakada](index.html){.btn-back}
+:::
+
+
+Barnaamijkan wuxuu ka dhashay iskaashi cilmibaaris oo lagu eegayay sida turjumaaddu uga caawin karto bulshooyinka Bariga Afrika inay fahmaan, su’aalo iska weyddiiyaan, ayna qaabeeyaan tignoolijyadan saamaynta ku leh nooloshooda. Ujeeddada Kasmo waa in fikradaha salka u ah garaad gacmeedka si fudud loo fahmo, laga doodo, laguna saleeyo hiddaha iyo dhaqan luuqadeedka Soomaaliyeed.
+
+Barnaamijka Kasmo wuxuu daba socdaa “Buugyaraha Ereybixinta Xuquuqda Dhijitaalka ee Af Soomaaliga (2021)” oo ay si wadajir ah u diyaariyeen koox afyaqaanno, cilmibaaraayaal iyo suxufiyiin Soomaaliyeed, si ay u hal-abuuran ereryo muhiim ah oo la xiriira xuquuqda dhijitaalka. Isbeddelka ballaaran ee uu garaad gacmeedka ku soo kordhiyay curinta iyo faafinta aqoonta ayaa sababay in dadaalkani u gudbo wejigii labaad - soosaarista qaamuusyare af Soomaali iyo Ingiriis ah oo soo koobaya ereyada iyo fikradaha GG.
+
+Ereybixinta aad ka arki kartid boggan wuxuu ka kooban yahay qeexitaanno laba-luuqadle/laba-afle ah oo ku saabsan in ka badan 70 erey oo la xiriira GG. Ereyada waxaa ka mid ah kuwo farsamo iyo kuwo ku saabsan saameynta bulsho ee tignoolajiyadan cusub. Ereybixinta waxaa loo soo bandhigay qaab shabakad ahaan oo si sahlan loo daalacan karo xiriirka ka dhexeeya ereyada. Fadlan guji oo la falgal.
+
+Hoos waxaad ka heli kartaa buugyaraha oo PDF ah. Fadlan dejiso oo la wadaag asxaabtaada [👉🏿 PDF](https://github.com/mabdimalik/lexicon/blob/main/Gen%20AI%20Somali%20Lexicon%20V1.0.pdf).
+
+Buugyaraha ereybixinta GG waxaa lagu diyaariyay kulan-aqooneed laba maalmood socday oo ay hormuud ka ahayd Akadeemiya Goboleedka Af Soomaaliga (AGA), laguna qabtay Muqdisho. Shirkan, oo ay ka qaybgaleen afyaqaanno iyo cilmibaareyaal ayaa lagu hal-bixiyay ereyo la xiriira GG, waxaana ka mid ahaa: (Abwaan Saciid Saalax Axmed, Prof. Cabdalla Cumar Mansuur, Cabdulqaadir Cabdulle Diini, Cabdiweli Maxamed Sh. Cumar, Cabdinaasir Cabdi Daa’uud, Cabdulqaadir Cabdi Axmed Jubba, Seynab Ugbaad). Hawshan, waxaa isku dubbariday Mohamed [Abdimalik](https://abdimalik.com/) iyo Dr. [Peter Chonka](https://petechonka.com/) waxaana taageeray barnaamijka AHRC ee Jaamacadda King’s College London. Waxaan si gaar ugu mahadcelinaynaa hey’adaha kala ah: Somali Public Agenda iyo Digital Shelter oo dib–u-eegis ku sameeyay qamuusyaraha.
+
+Ereybixinta Kasmo weli kow ma joogto. Waa bar-billow waxaana si wadi doonnaa wadatashiyada aan la yeelanayno barayaasha, suxufiyiinta iyo bulshada rayidka, si loo sii kobciyo qaamusyaraha. Munaasabad isugu jirto ansixin iyo daahfur ayaan qorshaynaynaa in lagu qabto Muqdisho bisha Nofembar 2025.
+
+
+## Shir-aqooneedka Ereybixinta Garaad Gacmeedka
+
+
+![Kaqaybgalayaasha shirka aqoon-is-weydaarsiga Muqdisho..](www/img/workshop-group.jpeg){fig-align="left" fig-cap="Workshop participants in Mogadishu. *Photo: Ahmed Fais.*" width="70%"}
+
+## Ereybixinta Xuquuqda Dhijitaalka
+
+![Jaldiga Buugyaraha Ereybixinta Xuquuqda Dhijitaalka ee Af Soomaaliga.](www/img/lexicon-cover.png){fig-align="left" width="60%"}
+
+Ereybixinta Xuquuqda Dhijitaalka ee Af Soomaaliga (2021). [Dejiso PDF](https://github.com/mabdimalik/lexicon/blob/main/Somali_Digital_Rights_Lexicon_FINAL.pdf)
+
+## Ka Qayb Qaado
+
+- Barayaasha, saxafiyiinta, iyo bulshada rayidka ah ee danaynaysa adeegsiga ama wax ku biirinta qaamuuska waanu soo dhawaynaynaa.
+- Falcelinta tarjumaadda, ereyada ama qaabdhismeedka bogga ciddi wax inagu biirinayso waanu ka mahad celinaynaa.
+
+---
+

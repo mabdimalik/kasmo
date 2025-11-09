@@ -93,7 +93,7 @@
     {
       "id": "daruur kombuyuutareed",
       "tags": "Technical",
-      "degree": 7
+      "degree": 8
     },
     {
       "id": "dhalanteed",
@@ -163,7 +163,7 @@
     {
       "id": "intarnet",
       "tags": "Technical",
-      "degree": 5
+      "degree": 10
     },
     {
       "id": "isbarid aan la kormeerin",
@@ -203,12 +203,12 @@
     {
       "id": "iswadid",
       "tags": "Technical",
-      "degree": 6
+      "degree": 7
     },
     {
       "id": "kaabayaal",
       "tags": "Technical",
-      "degree": 9
+      "degree": 10
     },
     {
       "id": "kasjile",
@@ -333,12 +333,12 @@
     {
       "id": "walxaha intarnetka",
       "tags": "Technical",
-      "degree": 3
+      "degree": 4
     },
     {
       "id": "xarumo xogeed",
       "tags": "Technical",
-      "degree": 8
+      "degree": 9
     },
     {
       "id": "xog gooniyeed",
@@ -687,7 +687,7 @@
       "weight": 2,
       "term_so": "Aqoonta GG",
       "term_en": "AI Literacy",
-      "def_so": "Kartida iyo aqoonta ay dadka u leeyihiin Kasmo Gacmeedka, si ay u fahmaan, u adeegsadaan, u kormeeraan, oo ay si feejigan uga fakaraan isticmaalka AI GG oo waayadan qayb wayn ka ah nolosha caadiga.",
+      "def_so": "Kartida iyo aqoonta ay dadka u leeyihiin Garaad Gacmeedka, si ay u fahmaan, u adeegsadaan, u kormeeraan, oo ay si feejigan uga fakaraan isticmaalka AI GG oo waayadan qayb wayn ka ah nolosha caadiga.",
       "def_en": "People's ability to understand, use, monitor, and critically reflect on AI applications as they become more common in their everyday lives.",
       "relation": "link",
       "directed": true
@@ -1347,7 +1347,7 @@
       "weight": 2,
       "term_so": "Hab-maamulka",
       "term_en": "Gen AI Governance",
-      "def_so": "Shuruucda, xeerarka, iyo siyaasadaha ay dawladuhu ama hay’adaha caalamigu dejisteen si loo xakameeyo horumarinta teknoolojiyada kasmo gacmeedka.",
+      "def_so": "Shuruucda, xeerarka, iyo siyaasadaha ay dawladuhu ama hay’adaha caalamigu dejisteen si loo xakameeyo horumarinta teknoolojiyada garaad gacmeedka.",
       "def_en": "Laws, regulations and policies made by states or international organisations to control the development of AI technologies.",
       "relation": "link",
       "directed": true
@@ -1358,7 +1358,7 @@
       "weight": 2,
       "term_so": "Hab-maamulka",
       "term_en": "Gen AI Governance",
-      "def_so": "Shuruucda, xeerarka, iyo siyaasadaha ay dawladuhu ama hay’adaha caalamigu dejisteen si loo xakameeyo horumarinta teknoolojiyada kasmo gacmeedka.",
+      "def_so": "Shuruucda, xeerarka, iyo siyaasadaha ay dawladuhu ama hay’adaha caalamigu dejisteen si loo xakameeyo horumarinta teknoolojiyada garaad gacmeedka.",
       "def_en": "Laws, regulations and policies made by states or international organisations to control the development of AI technologies.",
       "relation": "link",
       "directed": true
@@ -1369,7 +1369,7 @@
       "weight": 2,
       "term_so": "Habaynta Afka Dabiiciga",
       "term_en": "Natural Language Processing",
-      "def_so": "Waa qeyb ka mid ah cilmiga kombuyuutarka iyo Kasmo Gacmeedka (AI GG) oo adeegsada isbaridda mashiinka si kombuyuutarada u fahmaan kuna hadlaan luqadda bini’aadamka.",
+      "def_so": "Waa qeyb ka mid ah cilmiga kombuyuutarka iyo Garaad Gacmeedka (AI GG) oo adeegsada isbaridda mashiinka si kombuyuutarada u fahmaan kuna hadlaan luqadda bini’aadamka.",
       "def_en": "Natural language processing (NLP) is a type of computer science and AI that uses machine learning to enable computers to understand and communicate with human language.",
       "relation": "link",
       "directed": true
@@ -1380,7 +1380,7 @@
       "weight": 2,
       "term_so": "Habaynta Afka Dabiiciga",
       "term_en": "Natural Language Processing",
-      "def_so": "Waa qeyb ka mid ah cilmiga kombuyuutarka iyo Kasmo Gacmeedka (AI GG) oo adeegsada isbaridda mashiinka si kombuyuutarada u fahmaan kuna hadlaan luqadda bini’aadamka.",
+      "def_so": "Waa qeyb ka mid ah cilmiga kombuyuutarka iyo Garaad Gacmeedka (AI GG) oo adeegsada isbaridda mashiinka si kombuyuutarada u fahmaan kuna hadlaan luqadda bini’aadamka.",
       "def_en": "Natural language processing (NLP) is a type of computer science and AI that uses machine learning to enable computers to understand and communicate with human language.",
       "relation": "link",
       "directed": true
@@ -1391,7 +1391,7 @@
       "weight": 2,
       "term_so": "Habaynta Afka Dabiiciga",
       "term_en": "Natural Language Processing",
-      "def_so": "Waa qeyb ka mid ah cilmiga kombuyuutarka iyo Kasmo Gacmeedka (AI GG) oo adeegsada isbaridda mashiinka si kombuyuutarada u fahmaan kuna hadlaan luqadda bini’aadamka.",
+      "def_so": "Waa qeyb ka mid ah cilmiga kombuyuutarka iyo Garaad Gacmeedka (AI GG) oo adeegsada isbaridda mashiinka si kombuyuutarada u fahmaan kuna hadlaan luqadda bini’aadamka.",
       "def_en": "Natural language processing (NLP) is a type of computer science and AI that uses machine learning to enable computers to understand and communicate with human language.",
       "relation": "link",
       "directed": true
@@ -1402,7 +1402,7 @@
       "weight": 2,
       "term_so": "Hal-abuur",
       "term_en": "AI Creativity",
-      "def_so": "Kartida ay aaladaha AI GG ahi ku gacan siiyaan hal-abuurnimada aadanaha iyagoo soo jeedinaya fikrado, ama qabanaayo hawlo otomaatig ah, ama in ay soo saaran macluumaad cusub. AI GG-ku dhab ahaantii ma laha miyir hal-abuurnimo oo dhab ah, waxayna ku tiirsan tahay xog, tusaalooyin, iyo hagid ay aadanuhu bixiyeen.",
+      "def_so": "Kartida ay aaladaha GG-ga ahi ku gacan siiyaan hal-abuurnimada aadanaha iyagoo soo jeedinaya fikrado, ama qabanaayo hawlo otomaatig ah, ama in ay soo saaran macluumaad cusub. GG-gu dhab ahaantii ma laha miyir hal-abuurnimo oo dhab ah, waxayna ku tiirsan tahay xog, tusaalooyin, iyo hagid ay aadanuhu bixiyeen.",
       "def_en": "The ability of AI tools to contribute to human creativity by suggesting ideas, automating tasks, and generating new content. AI lacks true creative consciousness and relies on human-generated data, input and direction.",
       "relation": "link",
       "directed": true
@@ -1413,7 +1413,7 @@
       "weight": 2,
       "term_so": "Hal-abuur",
       "term_en": "AI Creativity",
-      "def_so": "Kartida ay aaladaha AI GG ahi ku gacan siiyaan hal-abuurnimada aadanaha iyagoo soo jeedinaya fikrado, ama qabanaayo hawlo otomaatig ah, ama in ay soo saaran macluumaad cusub. AI GG-ku dhab ahaantii ma laha miyir hal-abuurnimo oo dhab ah, waxayna ku tiirsan tahay xog, tusaalooyin, iyo hagid ay aadanuhu bixiyeen.",
+      "def_so": "Kartida ay aaladaha GG-ga ahi ku gacan siiyaan hal-abuurnimada aadanaha iyagoo soo jeedinaya fikrado, ama qabanaayo hawlo otomaatig ah, ama in ay soo saaran macluumaad cusub. GG-gu dhab ahaantii ma laha miyir hal-abuurnimo oo dhab ah, waxayna ku tiirsan tahay xog, tusaalooyin, iyo hagid ay aadanuhu bixiyeen.",
       "def_en": "The ability of AI tools to contribute to human creativity by suggesting ideas, automating tasks, and generating new content. AI lacks true creative consciousness and relies on human-generated data, input and direction.",
       "relation": "link",
       "directed": true
@@ -1842,7 +1842,7 @@
       "weight": 2,
       "term_so": "GG Curiyeed",
       "term_en": "Generative AI",
-      "def_so": "Waa nooc ka mid ah kasmo gacmeedka oo abuura waxyaabo cusub sida qoraal, sawirro, muusig, iyo afgarad koodh iyadoo la adeegsanayo xogta lagu tababaray, si u eg hal-abuurka aadanaha. Nidaamyadan AI waxay wax ka bartaan xogo ballaaran si ay u soo saaraan wax-soo-saaro cusub. Qaar ka mid ah AI-da wax-abuurta (tusaale, ChatGPT) waxay isticmaalaan moodeello afeed ballaaran (LLMs) si ay u abuuraan qoraal, sheekooyin, iyo afgarad u eg qoraalka aadanaha. Kuwa sawirrada curiya waxay ku saleysan yihiin moodeellada AI (sida DALL-E, Midjourney, Stable Diffusion, iwm.) waxaana loo adeegsadaa in la curiyo sawirro nolosha dhabta ah ama mala-awaal ah oo laga allifay tilmaamo qoraal ah. Moodeellada AI GG Curiye waxay inta badan u baahan yihiin qalab khaas ah, kaabayaal kombiyuutarro waa weyn, iyo ilo tamar oo aad u badan. Moodeellada AI GG Curiye waxay wax ka bartaan xog horey u jirtay, laakiin mar walba waxsoosaarkoodu ma ahan kuwo run ah. Bulshooyinka caalamka waxaa ay maanta ka doodayaan fursadaha iyo khataraha AI GG Curiye oo adeegsigiisu sii badanaayo.",
+      "def_so": "Waa nooc ka mid ah garaad gacmeedka oo abuura waxyaabo cusub sida qoraal, sawirro, muusig, iyo afgarad koodh iyadoo la adeegsanayo xogta lagu tababaray, si u eg hal-abuurka aadanaha. Nidaamyadan AI waxay wax ka bartaan xogo ballaaran si ay u soo saaraan wax-soo-saaro cusub. Qaar ka mid ah GG-da wax-abuurta (tusaale, ChatGPT) waxay isticmaalaan moodeello afeed ballaaran (LLMs) si ay u abuuraan qoraal, sheekooyin, iyo afgarad u eg qoraalka aadanaha. Kuwa sawirrada curiya waxay ku saleysan yihiin moodeellada AI (sida DALL-E, Midjourney, Stable Diffusion, iwm.) waxaana loo adeegsadaa in la curiyo sawirro nolosha dhabta ah ama mala-awaal ah oo laga allifay tilmaamo qoraal ah. Moodeellada GG Curiye waxay inta badan u baahan yihiin qalab khaas ah, kaabayaal kombiyuutarro waa weyn, iyo ilo tamar oo aad u badan. Moodeellada GG Curiye waxay wax ka bartaan xog horey u jirtay, laakiin mar walba waxsoosaarkoodu ma ahan kuwo run ah. Bulshooyinka caalamka waxaa ay maanta ka doodayaan fursadaha iyo khataraha GG Curiye oo adeegsigiisu sii badanaayo.",
       "def_en": "Generative AI is a type of artificial intelligence that can create new content like text, images, music, and code, based on the data it's trained on, mimicking human creativity. These AI systems learn patterns and structures from massive datasets in order to generate new outputs. Some generative AI (like ChatGPT) use large language models to create human-like text, stories, and code. Image-based AI models (like DALL-E and Midjourney) can create realistic or surreal images from text prompts. Generative AI models often require large-scale computing infrastructure and massive amounts of energy. Generative AI makes predictions based on existing data, it does not always represent the truth. Societies around the world are debating the opportunities and risks of generative AI as it becomes used more widely in society.",
       "relation": "link",
       "directed": true
@@ -1853,7 +1853,7 @@
       "weight": 2,
       "term_so": "GG Curiyeed",
       "term_en": "Generative AI",
-      "def_so": "Waa nooc ka mid ah kasmo gacmeedka oo abuura waxyaabo cusub sida qoraal, sawirro, muusig, iyo afgarad koodh iyadoo la adeegsanayo xogta lagu tababaray, si u eg hal-abuurka aadanaha. Nidaamyadan AI waxay wax ka bartaan xogo ballaaran si ay u soo saaraan wax-soo-saaro cusub. Qaar ka mid ah AI-da wax-abuurta (tusaale, ChatGPT) waxay isticmaalaan moodeello afeed ballaaran (LLMs) si ay u abuuraan qoraal, sheekooyin, iyo afgarad u eg qoraalka aadanaha. Kuwa sawirrada curiya waxay ku saleysan yihiin moodeellada AI (sida DALL-E, Midjourney, Stable Diffusion, iwm.) waxaana loo adeegsadaa in la curiyo sawirro nolosha dhabta ah ama mala-awaal ah oo laga allifay tilmaamo qoraal ah. Moodeellada AI GG Curiye waxay inta badan u baahan yihiin qalab khaas ah, kaabayaal kombiyuutarro waa weyn, iyo ilo tamar oo aad u badan. Moodeellada AI GG Curiye waxay wax ka bartaan xog horey u jirtay, laakiin mar walba waxsoosaarkoodu ma ahan kuwo run ah. Bulshooyinka caalamka waxaa ay maanta ka doodayaan fursadaha iyo khataraha AI GG Curiye oo adeegsigiisu sii badanaayo.",
+      "def_so": "Waa nooc ka mid ah garaad gacmeedka oo abuura waxyaabo cusub sida qoraal, sawirro, muusig, iyo afgarad koodh iyadoo la adeegsanayo xogta lagu tababaray, si u eg hal-abuurka aadanaha. Nidaamyadan AI waxay wax ka bartaan xogo ballaaran si ay u soo saaraan wax-soo-saaro cusub. Qaar ka mid ah GG-da wax-abuurta (tusaale, ChatGPT) waxay isticmaalaan moodeello afeed ballaaran (LLMs) si ay u abuuraan qoraal, sheekooyin, iyo afgarad u eg qoraalka aadanaha. Kuwa sawirrada curiya waxay ku saleysan yihiin moodeellada AI (sida DALL-E, Midjourney, Stable Diffusion, iwm.) waxaana loo adeegsadaa in la curiyo sawirro nolosha dhabta ah ama mala-awaal ah oo laga allifay tilmaamo qoraal ah. Moodeellada GG Curiye waxay inta badan u baahan yihiin qalab khaas ah, kaabayaal kombiyuutarro waa weyn, iyo ilo tamar oo aad u badan. Moodeellada GG Curiye waxay wax ka bartaan xog horey u jirtay, laakiin mar walba waxsoosaarkoodu ma ahan kuwo run ah. Bulshooyinka caalamka waxaa ay maanta ka doodayaan fursadaha iyo khataraha GG Curiye oo adeegsigiisu sii badanaayo.",
       "def_en": "Generative AI is a type of artificial intelligence that can create new content like text, images, music, and code, based on the data it's trained on, mimicking human creativity. These AI systems learn patterns and structures from massive datasets in order to generate new outputs. Some generative AI (like ChatGPT) use large language models to create human-like text, stories, and code. Image-based AI models (like DALL-E and Midjourney) can create realistic or surreal images from text prompts. Generative AI models often require large-scale computing infrastructure and massive amounts of energy. Generative AI makes predictions based on existing data, it does not always represent the truth. Societies around the world are debating the opportunities and risks of generative AI as it becomes used more widely in society.",
       "relation": "link",
       "directed": true
@@ -1864,7 +1864,7 @@
       "weight": 2,
       "term_so": "GG Curiyeed",
       "term_en": "Generative AI",
-      "def_so": "Waa nooc ka mid ah kasmo gacmeedka oo abuura waxyaabo cusub sida qoraal, sawirro, muusig, iyo afgarad koodh iyadoo la adeegsanayo xogta lagu tababaray, si u eg hal-abuurka aadanaha. Nidaamyadan AI waxay wax ka bartaan xogo ballaaran si ay u soo saaraan wax-soo-saaro cusub. Qaar ka mid ah AI-da wax-abuurta (tusaale, ChatGPT) waxay isticmaalaan moodeello afeed ballaaran (LLMs) si ay u abuuraan qoraal, sheekooyin, iyo afgarad u eg qoraalka aadanaha. Kuwa sawirrada curiya waxay ku saleysan yihiin moodeellada AI (sida DALL-E, Midjourney, Stable Diffusion, iwm.) waxaana loo adeegsadaa in la curiyo sawirro nolosha dhabta ah ama mala-awaal ah oo laga allifay tilmaamo qoraal ah. Moodeellada AI GG Curiye waxay inta badan u baahan yihiin qalab khaas ah, kaabayaal kombiyuutarro waa weyn, iyo ilo tamar oo aad u badan. Moodeellada AI GG Curiye waxay wax ka bartaan xog horey u jirtay, laakiin mar walba waxsoosaarkoodu ma ahan kuwo run ah. Bulshooyinka caalamka waxaa ay maanta ka doodayaan fursadaha iyo khataraha AI GG Curiye oo adeegsigiisu sii badanaayo.",
+      "def_so": "Waa nooc ka mid ah garaad gacmeedka oo abuura waxyaabo cusub sida qoraal, sawirro, muusig, iyo afgarad koodh iyadoo la adeegsanayo xogta lagu tababaray, si u eg hal-abuurka aadanaha. Nidaamyadan AI waxay wax ka bartaan xogo ballaaran si ay u soo saaraan wax-soo-saaro cusub. Qaar ka mid ah GG-da wax-abuurta (tusaale, ChatGPT) waxay isticmaalaan moodeello afeed ballaaran (LLMs) si ay u abuuraan qoraal, sheekooyin, iyo afgarad u eg qoraalka aadanaha. Kuwa sawirrada curiya waxay ku saleysan yihiin moodeellada AI (sida DALL-E, Midjourney, Stable Diffusion, iwm.) waxaana loo adeegsadaa in la curiyo sawirro nolosha dhabta ah ama mala-awaal ah oo laga allifay tilmaamo qoraal ah. Moodeellada GG Curiye waxay inta badan u baahan yihiin qalab khaas ah, kaabayaal kombiyuutarro waa weyn, iyo ilo tamar oo aad u badan. Moodeellada GG Curiye waxay wax ka bartaan xog horey u jirtay, laakiin mar walba waxsoosaarkoodu ma ahan kuwo run ah. Bulshooyinka caalamka waxaa ay maanta ka doodayaan fursadaha iyo khataraha GG Curiye oo adeegsigiisu sii badanaayo.",
       "def_en": "Generative AI is a type of artificial intelligence that can create new content like text, images, music, and code, based on the data it's trained on, mimicking human creativity. These AI systems learn patterns and structures from massive datasets in order to generate new outputs. Some generative AI (like ChatGPT) use large language models to create human-like text, stories, and code. Image-based AI models (like DALL-E and Midjourney) can create realistic or surreal images from text prompts. Generative AI models often require large-scale computing infrastructure and massive amounts of energy. Generative AI makes predictions based on existing data, it does not always represent the truth. Societies around the world are debating the opportunities and risks of generative AI as it becomes used more widely in society.",
       "relation": "link",
       "directed": true
@@ -1875,7 +1875,7 @@
       "weight": 2,
       "term_so": "GG Curiyeed",
       "term_en": "Generative AI",
-      "def_so": "Waa nooc ka mid ah kasmo gacmeedka oo abuura waxyaabo cusub sida qoraal, sawirro, muusig, iyo afgarad koodh iyadoo la adeegsanayo xogta lagu tababaray, si u eg hal-abuurka aadanaha. Nidaamyadan AI waxay wax ka bartaan xogo ballaaran si ay u soo saaraan wax-soo-saaro cusub. Qaar ka mid ah AI-da wax-abuurta (tusaale, ChatGPT) waxay isticmaalaan moodeello afeed ballaaran (LLMs) si ay u abuuraan qoraal, sheekooyin, iyo afgarad u eg qoraalka aadanaha. Kuwa sawirrada curiya waxay ku saleysan yihiin moodeellada AI (sida DALL-E, Midjourney, Stable Diffusion, iwm.) waxaana loo adeegsadaa in la curiyo sawirro nolosha dhabta ah ama mala-awaal ah oo laga allifay tilmaamo qoraal ah. Moodeellada AI GG Curiye waxay inta badan u baahan yihiin qalab khaas ah, kaabayaal kombiyuutarro waa weyn, iyo ilo tamar oo aad u badan. Moodeellada AI GG Curiye waxay wax ka bartaan xog horey u jirtay, laakiin mar walba waxsoosaarkoodu ma ahan kuwo run ah. Bulshooyinka caalamka waxaa ay maanta ka doodayaan fursadaha iyo khataraha AI GG Curiye oo adeegsigiisu sii badanaayo.",
+      "def_so": "Waa nooc ka mid ah garaad gacmeedka oo abuura waxyaabo cusub sida qoraal, sawirro, muusig, iyo afgarad koodh iyadoo la adeegsanayo xogta lagu tababaray, si u eg hal-abuurka aadanaha. Nidaamyadan AI waxay wax ka bartaan xogo ballaaran si ay u soo saaraan wax-soo-saaro cusub. Qaar ka mid ah GG-da wax-abuurta (tusaale, ChatGPT) waxay isticmaalaan moodeello afeed ballaaran (LLMs) si ay u abuuraan qoraal, sheekooyin, iyo afgarad u eg qoraalka aadanaha. Kuwa sawirrada curiya waxay ku saleysan yihiin moodeellada AI (sida DALL-E, Midjourney, Stable Diffusion, iwm.) waxaana loo adeegsadaa in la curiyo sawirro nolosha dhabta ah ama mala-awaal ah oo laga allifay tilmaamo qoraal ah. Moodeellada GG Curiye waxay inta badan u baahan yihiin qalab khaas ah, kaabayaal kombiyuutarro waa weyn, iyo ilo tamar oo aad u badan. Moodeellada GG Curiye waxay wax ka bartaan xog horey u jirtay, laakiin mar walba waxsoosaarkoodu ma ahan kuwo run ah. Bulshooyinka caalamka waxaa ay maanta ka doodayaan fursadaha iyo khataraha GG Curiye oo adeegsigiisu sii badanaayo.",
       "def_en": "Generative AI is a type of artificial intelligence that can create new content like text, images, music, and code, based on the data it's trained on, mimicking human creativity. These AI systems learn patterns and structures from massive datasets in order to generate new outputs. Some generative AI (like ChatGPT) use large language models to create human-like text, stories, and code. Image-based AI models (like DALL-E and Midjourney) can create realistic or surreal images from text prompts. Generative AI models often require large-scale computing infrastructure and massive amounts of energy. Generative AI makes predictions based on existing data, it does not always represent the truth. Societies around the world are debating the opportunities and risks of generative AI as it becomes used more widely in society.",
       "relation": "link",
       "directed": true
@@ -1886,7 +1886,7 @@
       "weight": 2,
       "term_so": "GG Curiyeed",
       "term_en": "Generative AI",
-      "def_so": "Waa nooc ka mid ah kasmo gacmeedka oo abuura waxyaabo cusub sida qoraal, sawirro, muusig, iyo afgarad koodh iyadoo la adeegsanayo xogta lagu tababaray, si u eg hal-abuurka aadanaha. Nidaamyadan AI waxay wax ka bartaan xogo ballaaran si ay u soo saaraan wax-soo-saaro cusub. Qaar ka mid ah AI-da wax-abuurta (tusaale, ChatGPT) waxay isticmaalaan moodeello afeed ballaaran (LLMs) si ay u abuuraan qoraal, sheekooyin, iyo afgarad u eg qoraalka aadanaha. Kuwa sawirrada curiya waxay ku saleysan yihiin moodeellada AI (sida DALL-E, Midjourney, Stable Diffusion, iwm.) waxaana loo adeegsadaa in la curiyo sawirro nolosha dhabta ah ama mala-awaal ah oo laga allifay tilmaamo qoraal ah. Moodeellada AI GG Curiye waxay inta badan u baahan yihiin qalab khaas ah, kaabayaal kombiyuutarro waa weyn, iyo ilo tamar oo aad u badan. Moodeellada AI GG Curiye waxay wax ka bartaan xog horey u jirtay, laakiin mar walba waxsoosaarkoodu ma ahan kuwo run ah. Bulshooyinka caalamka waxaa ay maanta ka doodayaan fursadaha iyo khataraha AI GG Curiye oo adeegsigiisu sii badanaayo.",
+      "def_so": "Waa nooc ka mid ah garaad gacmeedka oo abuura waxyaabo cusub sida qoraal, sawirro, muusig, iyo afgarad koodh iyadoo la adeegsanayo xogta lagu tababaray, si u eg hal-abuurka aadanaha. Nidaamyadan AI waxay wax ka bartaan xogo ballaaran si ay u soo saaraan wax-soo-saaro cusub. Qaar ka mid ah GG-da wax-abuurta (tusaale, ChatGPT) waxay isticmaalaan moodeello afeed ballaaran (LLMs) si ay u abuuraan qoraal, sheekooyin, iyo afgarad u eg qoraalka aadanaha. Kuwa sawirrada curiya waxay ku saleysan yihiin moodeellada AI (sida DALL-E, Midjourney, Stable Diffusion, iwm.) waxaana loo adeegsadaa in la curiyo sawirro nolosha dhabta ah ama mala-awaal ah oo laga allifay tilmaamo qoraal ah. Moodeellada GG Curiye waxay inta badan u baahan yihiin qalab khaas ah, kaabayaal kombiyuutarro waa weyn, iyo ilo tamar oo aad u badan. Moodeellada GG Curiye waxay wax ka bartaan xog horey u jirtay, laakiin mar walba waxsoosaarkoodu ma ahan kuwo run ah. Bulshooyinka caalamka waxaa ay maanta ka doodayaan fursadaha iyo khataraha GG Curiye oo adeegsigiisu sii badanaayo.",
       "def_en": "Generative AI is a type of artificial intelligence that can create new content like text, images, music, and code, based on the data it's trained on, mimicking human creativity. These AI systems learn patterns and structures from massive datasets in order to generate new outputs. Some generative AI (like ChatGPT) use large language models to create human-like text, stories, and code. Image-based AI models (like DALL-E and Midjourney) can create realistic or surreal images from text prompts. Generative AI models often require large-scale computing infrastructure and massive amounts of energy. Generative AI makes predictions based on existing data, it does not always represent the truth. Societies around the world are debating the opportunities and risks of generative AI as it becomes used more widely in society.",
       "relation": "link",
       "directed": true
@@ -1897,7 +1897,7 @@
       "weight": 2,
       "term_so": "GG Curiyeed",
       "term_en": "Generative AI",
-      "def_so": "Waa nooc ka mid ah kasmo gacmeedka oo abuura waxyaabo cusub sida qoraal, sawirro, muusig, iyo afgarad koodh iyadoo la adeegsanayo xogta lagu tababaray, si u eg hal-abuurka aadanaha. Nidaamyadan AI waxay wax ka bartaan xogo ballaaran si ay u soo saaraan wax-soo-saaro cusub. Qaar ka mid ah AI-da wax-abuurta (tusaale, ChatGPT) waxay isticmaalaan moodeello afeed ballaaran (LLMs) si ay u abuuraan qoraal, sheekooyin, iyo afgarad u eg qoraalka aadanaha. Kuwa sawirrada curiya waxay ku saleysan yihiin moodeellada AI (sida DALL-E, Midjourney, Stable Diffusion, iwm.) waxaana loo adeegsadaa in la curiyo sawirro nolosha dhabta ah ama mala-awaal ah oo laga allifay tilmaamo qoraal ah. Moodeellada AI GG Curiye waxay inta badan u baahan yihiin qalab khaas ah, kaabayaal kombiyuutarro waa weyn, iyo ilo tamar oo aad u badan. Moodeellada AI GG Curiye waxay wax ka bartaan xog horey u jirtay, laakiin mar walba waxsoosaarkoodu ma ahan kuwo run ah. Bulshooyinka caalamka waxaa ay maanta ka doodayaan fursadaha iyo khataraha AI GG Curiye oo adeegsigiisu sii badanaayo.",
+      "def_so": "Waa nooc ka mid ah garaad gacmeedka oo abuura waxyaabo cusub sida qoraal, sawirro, muusig, iyo afgarad koodh iyadoo la adeegsanayo xogta lagu tababaray, si u eg hal-abuurka aadanaha. Nidaamyadan AI waxay wax ka bartaan xogo ballaaran si ay u soo saaraan wax-soo-saaro cusub. Qaar ka mid ah GG-da wax-abuurta (tusaale, ChatGPT) waxay isticmaalaan moodeello afeed ballaaran (LLMs) si ay u abuuraan qoraal, sheekooyin, iyo afgarad u eg qoraalka aadanaha. Kuwa sawirrada curiya waxay ku saleysan yihiin moodeellada AI (sida DALL-E, Midjourney, Stable Diffusion, iwm.) waxaana loo adeegsadaa in la curiyo sawirro nolosha dhabta ah ama mala-awaal ah oo laga allifay tilmaamo qoraal ah. Moodeellada GG Curiye waxay inta badan u baahan yihiin qalab khaas ah, kaabayaal kombiyuutarro waa weyn, iyo ilo tamar oo aad u badan. Moodeellada GG Curiye waxay wax ka bartaan xog horey u jirtay, laakiin mar walba waxsoosaarkoodu ma ahan kuwo run ah. Bulshooyinka caalamka waxaa ay maanta ka doodayaan fursadaha iyo khataraha GG Curiye oo adeegsigiisu sii badanaayo.",
       "def_en": "Generative AI is a type of artificial intelligence that can create new content like text, images, music, and code, based on the data it's trained on, mimicking human creativity. These AI systems learn patterns and structures from massive datasets in order to generate new outputs. Some generative AI (like ChatGPT) use large language models to create human-like text, stories, and code. Image-based AI models (like DALL-E and Midjourney) can create realistic or surreal images from text prompts. Generative AI models often require large-scale computing infrastructure and massive amounts of energy. Generative AI makes predictions based on existing data, it does not always represent the truth. Societies around the world are debating the opportunities and risks of generative AI as it becomes used more widely in society.",
       "relation": "link",
       "directed": true
@@ -1908,7 +1908,7 @@
       "weight": 2,
       "term_so": "GG Curiyeed",
       "term_en": "Generative AI",
-      "def_so": "Waa nooc ka mid ah kasmo gacmeedka oo abuura waxyaabo cusub sida qoraal, sawirro, muusig, iyo afgarad koodh iyadoo la adeegsanayo xogta lagu tababaray, si u eg hal-abuurka aadanaha. Nidaamyadan AI waxay wax ka bartaan xogo ballaaran si ay u soo saaraan wax-soo-saaro cusub. Qaar ka mid ah AI-da wax-abuurta (tusaale, ChatGPT) waxay isticmaalaan moodeello afeed ballaaran (LLMs) si ay u abuuraan qoraal, sheekooyin, iyo afgarad u eg qoraalka aadanaha. Kuwa sawirrada curiya waxay ku saleysan yihiin moodeellada AI (sida DALL-E, Midjourney, Stable Diffusion, iwm.) waxaana loo adeegsadaa in la curiyo sawirro nolosha dhabta ah ama mala-awaal ah oo laga allifay tilmaamo qoraal ah. Moodeellada AI GG Curiye waxay inta badan u baahan yihiin qalab khaas ah, kaabayaal kombiyuutarro waa weyn, iyo ilo tamar oo aad u badan. Moodeellada AI GG Curiye waxay wax ka bartaan xog horey u jirtay, laakiin mar walba waxsoosaarkoodu ma ahan kuwo run ah. Bulshooyinka caalamka waxaa ay maanta ka doodayaan fursadaha iyo khataraha AI GG Curiye oo adeegsigiisu sii badanaayo.",
+      "def_so": "Waa nooc ka mid ah garaad gacmeedka oo abuura waxyaabo cusub sida qoraal, sawirro, muusig, iyo afgarad koodh iyadoo la adeegsanayo xogta lagu tababaray, si u eg hal-abuurka aadanaha. Nidaamyadan AI waxay wax ka bartaan xogo ballaaran si ay u soo saaraan wax-soo-saaro cusub. Qaar ka mid ah GG-da wax-abuurta (tusaale, ChatGPT) waxay isticmaalaan moodeello afeed ballaaran (LLMs) si ay u abuuraan qoraal, sheekooyin, iyo afgarad u eg qoraalka aadanaha. Kuwa sawirrada curiya waxay ku saleysan yihiin moodeellada AI (sida DALL-E, Midjourney, Stable Diffusion, iwm.) waxaana loo adeegsadaa in la curiyo sawirro nolosha dhabta ah ama mala-awaal ah oo laga allifay tilmaamo qoraal ah. Moodeellada GG Curiye waxay inta badan u baahan yihiin qalab khaas ah, kaabayaal kombiyuutarro waa weyn, iyo ilo tamar oo aad u badan. Moodeellada GG Curiye waxay wax ka bartaan xog horey u jirtay, laakiin mar walba waxsoosaarkoodu ma ahan kuwo run ah. Bulshooyinka caalamka waxaa ay maanta ka doodayaan fursadaha iyo khataraha GG Curiye oo adeegsigiisu sii badanaayo.",
       "def_en": "Generative AI is a type of artificial intelligence that can create new content like text, images, music, and code, based on the data it's trained on, mimicking human creativity. These AI systems learn patterns and structures from massive datasets in order to generate new outputs. Some generative AI (like ChatGPT) use large language models to create human-like text, stories, and code. Image-based AI models (like DALL-E and Midjourney) can create realistic or surreal images from text prompts. Generative AI models often require large-scale computing infrastructure and massive amounts of energy. Generative AI makes predictions based on existing data, it does not always represent the truth. Societies around the world are debating the opportunities and risks of generative AI as it becomes used more widely in society.",
       "relation": "link",
       "directed": true
@@ -1919,7 +1919,7 @@
       "weight": 2,
       "term_so": "GG Curiyeed",
       "term_en": "Generative AI",
-      "def_so": "Waa nooc ka mid ah kasmo gacmeedka oo abuura waxyaabo cusub sida qoraal, sawirro, muusig, iyo afgarad koodh iyadoo la adeegsanayo xogta lagu tababaray, si u eg hal-abuurka aadanaha. Nidaamyadan AI waxay wax ka bartaan xogo ballaaran si ay u soo saaraan wax-soo-saaro cusub. Qaar ka mid ah AI-da wax-abuurta (tusaale, ChatGPT) waxay isticmaalaan moodeello afeed ballaaran (LLMs) si ay u abuuraan qoraal, sheekooyin, iyo afgarad u eg qoraalka aadanaha. Kuwa sawirrada curiya waxay ku saleysan yihiin moodeellada AI (sida DALL-E, Midjourney, Stable Diffusion, iwm.) waxaana loo adeegsadaa in la curiyo sawirro nolosha dhabta ah ama mala-awaal ah oo laga allifay tilmaamo qoraal ah. Moodeellada AI GG Curiye waxay inta badan u baahan yihiin qalab khaas ah, kaabayaal kombiyuutarro waa weyn, iyo ilo tamar oo aad u badan. Moodeellada AI GG Curiye waxay wax ka bartaan xog horey u jirtay, laakiin mar walba waxsoosaarkoodu ma ahan kuwo run ah. Bulshooyinka caalamka waxaa ay maanta ka doodayaan fursadaha iyo khataraha AI GG Curiye oo adeegsigiisu sii badanaayo.",
+      "def_so": "Waa nooc ka mid ah garaad gacmeedka oo abuura waxyaabo cusub sida qoraal, sawirro, muusig, iyo afgarad koodh iyadoo la adeegsanayo xogta lagu tababaray, si u eg hal-abuurka aadanaha. Nidaamyadan AI waxay wax ka bartaan xogo ballaaran si ay u soo saaraan wax-soo-saaro cusub. Qaar ka mid ah GG-da wax-abuurta (tusaale, ChatGPT) waxay isticmaalaan moodeello afeed ballaaran (LLMs) si ay u abuuraan qoraal, sheekooyin, iyo afgarad u eg qoraalka aadanaha. Kuwa sawirrada curiya waxay ku saleysan yihiin moodeellada AI (sida DALL-E, Midjourney, Stable Diffusion, iwm.) waxaana loo adeegsadaa in la curiyo sawirro nolosha dhabta ah ama mala-awaal ah oo laga allifay tilmaamo qoraal ah. Moodeellada GG Curiye waxay inta badan u baahan yihiin qalab khaas ah, kaabayaal kombiyuutarro waa weyn, iyo ilo tamar oo aad u badan. Moodeellada GG Curiye waxay wax ka bartaan xog horey u jirtay, laakiin mar walba waxsoosaarkoodu ma ahan kuwo run ah. Bulshooyinka caalamka waxaa ay maanta ka doodayaan fursadaha iyo khataraha GG Curiye oo adeegsigiisu sii badanaayo.",
       "def_en": "Generative AI is a type of artificial intelligence that can create new content like text, images, music, and code, based on the data it's trained on, mimicking human creativity. These AI systems learn patterns and structures from massive datasets in order to generate new outputs. Some generative AI (like ChatGPT) use large language models to create human-like text, stories, and code. Image-based AI models (like DALL-E and Midjourney) can create realistic or surreal images from text prompts. Generative AI models often require large-scale computing infrastructure and massive amounts of energy. Generative AI makes predictions based on existing data, it does not always represent the truth. Societies around the world are debating the opportunities and risks of generative AI as it becomes used more widely in society.",
       "relation": "link",
       "directed": true
@@ -1930,7 +1930,7 @@
       "weight": 2,
       "term_so": "GG Curiyeed",
       "term_en": "Generative AI",
-      "def_so": "Waa nooc ka mid ah kasmo gacmeedka oo abuura waxyaabo cusub sida qoraal, sawirro, muusig, iyo afgarad koodh iyadoo la adeegsanayo xogta lagu tababaray, si u eg hal-abuurka aadanaha. Nidaamyadan AI waxay wax ka bartaan xogo ballaaran si ay u soo saaraan wax-soo-saaro cusub. Qaar ka mid ah AI-da wax-abuurta (tusaale, ChatGPT) waxay isticmaalaan moodeello afeed ballaaran (LLMs) si ay u abuuraan qoraal, sheekooyin, iyo afgarad u eg qoraalka aadanaha. Kuwa sawirrada curiya waxay ku saleysan yihiin moodeellada AI (sida DALL-E, Midjourney, Stable Diffusion, iwm.) waxaana loo adeegsadaa in la curiyo sawirro nolosha dhabta ah ama mala-awaal ah oo laga allifay tilmaamo qoraal ah. Moodeellada AI GG Curiye waxay inta badan u baahan yihiin qalab khaas ah, kaabayaal kombiyuutarro waa weyn, iyo ilo tamar oo aad u badan. Moodeellada AI GG Curiye waxay wax ka bartaan xog horey u jirtay, laakiin mar walba waxsoosaarkoodu ma ahan kuwo run ah. Bulshooyinka caalamka waxaa ay maanta ka doodayaan fursadaha iyo khataraha AI GG Curiye oo adeegsigiisu sii badanaayo.",
+      "def_so": "Waa nooc ka mid ah garaad gacmeedka oo abuura waxyaabo cusub sida qoraal, sawirro, muusig, iyo afgarad koodh iyadoo la adeegsanayo xogta lagu tababaray, si u eg hal-abuurka aadanaha. Nidaamyadan AI waxay wax ka bartaan xogo ballaaran si ay u soo saaraan wax-soo-saaro cusub. Qaar ka mid ah GG-da wax-abuurta (tusaale, ChatGPT) waxay isticmaalaan moodeello afeed ballaaran (LLMs) si ay u abuuraan qoraal, sheekooyin, iyo afgarad u eg qoraalka aadanaha. Kuwa sawirrada curiya waxay ku saleysan yihiin moodeellada AI (sida DALL-E, Midjourney, Stable Diffusion, iwm.) waxaana loo adeegsadaa in la curiyo sawirro nolosha dhabta ah ama mala-awaal ah oo laga allifay tilmaamo qoraal ah. Moodeellada GG Curiye waxay inta badan u baahan yihiin qalab khaas ah, kaabayaal kombiyuutarro waa weyn, iyo ilo tamar oo aad u badan. Moodeellada GG Curiye waxay wax ka bartaan xog horey u jirtay, laakiin mar walba waxsoosaarkoodu ma ahan kuwo run ah. Bulshooyinka caalamka waxaa ay maanta ka doodayaan fursadaha iyo khataraha GG Curiye oo adeegsigiisu sii badanaayo.",
       "def_en": "Generative AI is a type of artificial intelligence that can create new content like text, images, music, and code, based on the data it's trained on, mimicking human creativity. These AI systems learn patterns and structures from massive datasets in order to generate new outputs. Some generative AI (like ChatGPT) use large language models to create human-like text, stories, and code. Image-based AI models (like DALL-E and Midjourney) can create realistic or surreal images from text prompts. Generative AI models often require large-scale computing infrastructure and massive amounts of energy. Generative AI makes predictions based on existing data, it does not always represent the truth. Societies around the world are debating the opportunities and risks of generative AI as it becomes used more widely in society.",
       "relation": "link",
       "directed": true
@@ -1941,7 +1941,7 @@
       "weight": 2,
       "term_so": "GG Curiyeed",
       "term_en": "Generative AI",
-      "def_so": "Waa nooc ka mid ah kasmo gacmeedka oo abuura waxyaabo cusub sida qoraal, sawirro, muusig, iyo afgarad koodh iyadoo la adeegsanayo xogta lagu tababaray, si u eg hal-abuurka aadanaha. Nidaamyadan AI waxay wax ka bartaan xogo ballaaran si ay u soo saaraan wax-soo-saaro cusub. Qaar ka mid ah AI-da wax-abuurta (tusaale, ChatGPT) waxay isticmaalaan moodeello afeed ballaaran (LLMs) si ay u abuuraan qoraal, sheekooyin, iyo afgarad u eg qoraalka aadanaha. Kuwa sawirrada curiya waxay ku saleysan yihiin moodeellada AI (sida DALL-E, Midjourney, Stable Diffusion, iwm.) waxaana loo adeegsadaa in la curiyo sawirro nolosha dhabta ah ama mala-awaal ah oo laga allifay tilmaamo qoraal ah. Moodeellada AI GG Curiye waxay inta badan u baahan yihiin qalab khaas ah, kaabayaal kombiyuutarro waa weyn, iyo ilo tamar oo aad u badan. Moodeellada AI GG Curiye waxay wax ka bartaan xog horey u jirtay, laakiin mar walba waxsoosaarkoodu ma ahan kuwo run ah. Bulshooyinka caalamka waxaa ay maanta ka doodayaan fursadaha iyo khataraha AI GG Curiye oo adeegsigiisu sii badanaayo.",
+      "def_so": "Waa nooc ka mid ah garaad gacmeedka oo abuura waxyaabo cusub sida qoraal, sawirro, muusig, iyo afgarad koodh iyadoo la adeegsanayo xogta lagu tababaray, si u eg hal-abuurka aadanaha. Nidaamyadan AI waxay wax ka bartaan xogo ballaaran si ay u soo saaraan wax-soo-saaro cusub. Qaar ka mid ah GG-da wax-abuurta (tusaale, ChatGPT) waxay isticmaalaan moodeello afeed ballaaran (LLMs) si ay u abuuraan qoraal, sheekooyin, iyo afgarad u eg qoraalka aadanaha. Kuwa sawirrada curiya waxay ku saleysan yihiin moodeellada AI (sida DALL-E, Midjourney, Stable Diffusion, iwm.) waxaana loo adeegsadaa in la curiyo sawirro nolosha dhabta ah ama mala-awaal ah oo laga allifay tilmaamo qoraal ah. Moodeellada GG Curiye waxay inta badan u baahan yihiin qalab khaas ah, kaabayaal kombiyuutarro waa weyn, iyo ilo tamar oo aad u badan. Moodeellada GG Curiye waxay wax ka bartaan xog horey u jirtay, laakiin mar walba waxsoosaarkoodu ma ahan kuwo run ah. Bulshooyinka caalamka waxaa ay maanta ka doodayaan fursadaha iyo khataraha GG Curiye oo adeegsigiisu sii badanaayo.",
       "def_en": "Generative AI is a type of artificial intelligence that can create new content like text, images, music, and code, based on the data it's trained on, mimicking human creativity. These AI systems learn patterns and structures from massive datasets in order to generate new outputs. Some generative AI (like ChatGPT) use large language models to create human-like text, stories, and code. Image-based AI models (like DALL-E and Midjourney) can create realistic or surreal images from text prompts. Generative AI models often require large-scale computing infrastructure and massive amounts of energy. Generative AI makes predictions based on existing data, it does not always represent the truth. Societies around the world are debating the opportunities and risks of generative AI as it becomes used more widely in society.",
       "relation": "link",
       "directed": true
@@ -1952,7 +1952,7 @@
       "weight": 1,
       "term_so": "GG Curiyeed",
       "term_en": "Generative AI",
-      "def_so": "Waa nooc ka mid ah kasmo gacmeedka oo abuura waxyaabo cusub sida qoraal, sawirro, muusig, iyo afgarad koodh iyadoo la adeegsanayo xogta lagu tababaray, si u eg hal-abuurka aadanaha. Nidaamyadan AI waxay wax ka bartaan xogo ballaaran si ay u soo saaraan wax-soo-saaro cusub. Qaar ka mid ah AI-da wax-abuurta (tusaale, ChatGPT) waxay isticmaalaan moodeello afeed ballaaran (LLMs) si ay u abuuraan qoraal, sheekooyin, iyo afgarad u eg qoraalka aadanaha. Kuwa sawirrada curiya waxay ku saleysan yihiin moodeellada AI (sida DALL-E, Midjourney, Stable Diffusion, iwm.) waxaana loo adeegsadaa in la curiyo sawirro nolosha dhabta ah ama mala-awaal ah oo laga allifay tilmaamo qoraal ah. Moodeellada AI GG Curiye waxay inta badan u baahan yihiin qalab khaas ah, kaabayaal kombiyuutarro waa weyn, iyo ilo tamar oo aad u badan. Moodeellada AI GG Curiye waxay wax ka bartaan xog horey u jirtay, laakiin mar walba waxsoosaarkoodu ma ahan kuwo run ah. Bulshooyinka caalamka waxaa ay maanta ka doodayaan fursadaha iyo khataraha AI GG Curiye oo adeegsigiisu sii badanaayo.",
+      "def_so": "Waa nooc ka mid ah garaad gacmeedka oo abuura waxyaabo cusub sida qoraal, sawirro, muusig, iyo afgarad koodh iyadoo la adeegsanayo xogta lagu tababaray, si u eg hal-abuurka aadanaha. Nidaamyadan AI waxay wax ka bartaan xogo ballaaran si ay u soo saaraan wax-soo-saaro cusub. Qaar ka mid ah GG-da wax-abuurta (tusaale, ChatGPT) waxay isticmaalaan moodeello afeed ballaaran (LLMs) si ay u abuuraan qoraal, sheekooyin, iyo afgarad u eg qoraalka aadanaha. Kuwa sawirrada curiya waxay ku saleysan yihiin moodeellada AI (sida DALL-E, Midjourney, Stable Diffusion, iwm.) waxaana loo adeegsadaa in la curiyo sawirro nolosha dhabta ah ama mala-awaal ah oo laga allifay tilmaamo qoraal ah. Moodeellada GG Curiye waxay inta badan u baahan yihiin qalab khaas ah, kaabayaal kombiyuutarro waa weyn, iyo ilo tamar oo aad u badan. Moodeellada GG Curiye waxay wax ka bartaan xog horey u jirtay, laakiin mar walba waxsoosaarkoodu ma ahan kuwo run ah. Bulshooyinka caalamka waxaa ay maanta ka doodayaan fursadaha iyo khataraha GG Curiye oo adeegsigiisu sii badanaayo.",
       "def_en": "Generative AI is a type of artificial intelligence that can create new content like text, images, music, and code, based on the data it's trained on, mimicking human creativity. These AI systems learn patterns and structures from massive datasets in order to generate new outputs. Some generative AI (like ChatGPT) use large language models to create human-like text, stories, and code. Image-based AI models (like DALL-E and Midjourney) can create realistic or surreal images from text prompts. Generative AI models often require large-scale computing infrastructure and massive amounts of energy. Generative AI makes predictions based on existing data, it does not always represent the truth. Societies around the world are debating the opportunities and risks of generative AI as it becomes used more widely in society.",
       "relation": "link",
       "directed": true
@@ -1963,7 +1963,7 @@
       "weight": 2,
       "term_so": "GG Curiyeed",
       "term_en": "Generative AI",
-      "def_so": "Waa nooc ka mid ah kasmo gacmeedka oo abuura waxyaabo cusub sida qoraal, sawirro, muusig, iyo afgarad koodh iyadoo la adeegsanayo xogta lagu tababaray, si u eg hal-abuurka aadanaha. Nidaamyadan AI waxay wax ka bartaan xogo ballaaran si ay u soo saaraan wax-soo-saaro cusub. Qaar ka mid ah AI-da wax-abuurta (tusaale, ChatGPT) waxay isticmaalaan moodeello afeed ballaaran (LLMs) si ay u abuuraan qoraal, sheekooyin, iyo afgarad u eg qoraalka aadanaha. Kuwa sawirrada curiya waxay ku saleysan yihiin moodeellada AI (sida DALL-E, Midjourney, Stable Diffusion, iwm.) waxaana loo adeegsadaa in la curiyo sawirro nolosha dhabta ah ama mala-awaal ah oo laga allifay tilmaamo qoraal ah. Moodeellada AI GG Curiye waxay inta badan u baahan yihiin qalab khaas ah, kaabayaal kombiyuutarro waa weyn, iyo ilo tamar oo aad u badan. Moodeellada AI GG Curiye waxay wax ka bartaan xog horey u jirtay, laakiin mar walba waxsoosaarkoodu ma ahan kuwo run ah. Bulshooyinka caalamka waxaa ay maanta ka doodayaan fursadaha iyo khataraha AI GG Curiye oo adeegsigiisu sii badanaayo.",
+      "def_so": "Waa nooc ka mid ah garaad gacmeedka oo abuura waxyaabo cusub sida qoraal, sawirro, muusig, iyo afgarad koodh iyadoo la adeegsanayo xogta lagu tababaray, si u eg hal-abuurka aadanaha. Nidaamyadan AI waxay wax ka bartaan xogo ballaaran si ay u soo saaraan wax-soo-saaro cusub. Qaar ka mid ah GG-da wax-abuurta (tusaale, ChatGPT) waxay isticmaalaan moodeello afeed ballaaran (LLMs) si ay u abuuraan qoraal, sheekooyin, iyo afgarad u eg qoraalka aadanaha. Kuwa sawirrada curiya waxay ku saleysan yihiin moodeellada AI (sida DALL-E, Midjourney, Stable Diffusion, iwm.) waxaana loo adeegsadaa in la curiyo sawirro nolosha dhabta ah ama mala-awaal ah oo laga allifay tilmaamo qoraal ah. Moodeellada GG Curiye waxay inta badan u baahan yihiin qalab khaas ah, kaabayaal kombiyuutarro waa weyn, iyo ilo tamar oo aad u badan. Moodeellada GG Curiye waxay wax ka bartaan xog horey u jirtay, laakiin mar walba waxsoosaarkoodu ma ahan kuwo run ah. Bulshooyinka caalamka waxaa ay maanta ka doodayaan fursadaha iyo khataraha GG Curiye oo adeegsigiisu sii badanaayo.",
       "def_en": "Generative AI is a type of artificial intelligence that can create new content like text, images, music, and code, based on the data it's trained on, mimicking human creativity. These AI systems learn patterns and structures from massive datasets in order to generate new outputs. Some generative AI (like ChatGPT) use large language models to create human-like text, stories, and code. Image-based AI models (like DALL-E and Midjourney) can create realistic or surreal images from text prompts. Generative AI models often require large-scale computing infrastructure and massive amounts of energy. Generative AI makes predictions based on existing data, it does not always represent the truth. Societies around the world are debating the opportunities and risks of generative AI as it becomes used more widely in society.",
       "relation": "link",
       "directed": true
@@ -1974,7 +1974,7 @@
       "weight": 2,
       "term_so": "GG Curiyeed",
       "term_en": "Generative AI",
-      "def_so": "Waa nooc ka mid ah kasmo gacmeedka oo abuura waxyaabo cusub sida qoraal, sawirro, muusig, iyo afgarad koodh iyadoo la adeegsanayo xogta lagu tababaray, si u eg hal-abuurka aadanaha. Nidaamyadan AI waxay wax ka bartaan xogo ballaaran si ay u soo saaraan wax-soo-saaro cusub. Qaar ka mid ah AI-da wax-abuurta (tusaale, ChatGPT) waxay isticmaalaan moodeello afeed ballaaran (LLMs) si ay u abuuraan qoraal, sheekooyin, iyo afgarad u eg qoraalka aadanaha. Kuwa sawirrada curiya waxay ku saleysan yihiin moodeellada AI (sida DALL-E, Midjourney, Stable Diffusion, iwm.) waxaana loo adeegsadaa in la curiyo sawirro nolosha dhabta ah ama mala-awaal ah oo laga allifay tilmaamo qoraal ah. Moodeellada AI GG Curiye waxay inta badan u baahan yihiin qalab khaas ah, kaabayaal kombiyuutarro waa weyn, iyo ilo tamar oo aad u badan. Moodeellada AI GG Curiye waxay wax ka bartaan xog horey u jirtay, laakiin mar walba waxsoosaarkoodu ma ahan kuwo run ah. Bulshooyinka caalamka waxaa ay maanta ka doodayaan fursadaha iyo khataraha AI GG Curiye oo adeegsigiisu sii badanaayo.",
+      "def_so": "Waa nooc ka mid ah garaad gacmeedka oo abuura waxyaabo cusub sida qoraal, sawirro, muusig, iyo afgarad koodh iyadoo la adeegsanayo xogta lagu tababaray, si u eg hal-abuurka aadanaha. Nidaamyadan AI waxay wax ka bartaan xogo ballaaran si ay u soo saaraan wax-soo-saaro cusub. Qaar ka mid ah GG-da wax-abuurta (tusaale, ChatGPT) waxay isticmaalaan moodeello afeed ballaaran (LLMs) si ay u abuuraan qoraal, sheekooyin, iyo afgarad u eg qoraalka aadanaha. Kuwa sawirrada curiya waxay ku saleysan yihiin moodeellada AI (sida DALL-E, Midjourney, Stable Diffusion, iwm.) waxaana loo adeegsadaa in la curiyo sawirro nolosha dhabta ah ama mala-awaal ah oo laga allifay tilmaamo qoraal ah. Moodeellada GG Curiye waxay inta badan u baahan yihiin qalab khaas ah, kaabayaal kombiyuutarro waa weyn, iyo ilo tamar oo aad u badan. Moodeellada GG Curiye waxay wax ka bartaan xog horey u jirtay, laakiin mar walba waxsoosaarkoodu ma ahan kuwo run ah. Bulshooyinka caalamka waxaa ay maanta ka doodayaan fursadaha iyo khataraha GG Curiye oo adeegsigiisu sii badanaayo.",
       "def_en": "Generative AI is a type of artificial intelligence that can create new content like text, images, music, and code, based on the data it's trained on, mimicking human creativity. These AI systems learn patterns and structures from massive datasets in order to generate new outputs. Some generative AI (like ChatGPT) use large language models to create human-like text, stories, and code. Image-based AI models (like DALL-E and Midjourney) can create realistic or surreal images from text prompts. Generative AI models often require large-scale computing infrastructure and massive amounts of energy. Generative AI makes predictions based on existing data, it does not always represent the truth. Societies around the world are debating the opportunities and risks of generative AI as it becomes used more widely in society.",
       "relation": "link",
       "directed": true
@@ -1985,7 +1985,7 @@
       "weight": 2,
       "term_so": "GG Curiyeed",
       "term_en": "Generative AI",
-      "def_so": "Waa nooc ka mid ah kasmo gacmeedka oo abuura waxyaabo cusub sida qoraal, sawirro, muusig, iyo afgarad koodh iyadoo la adeegsanayo xogta lagu tababaray, si u eg hal-abuurka aadanaha. Nidaamyadan AI waxay wax ka bartaan xogo ballaaran si ay u soo saaraan wax-soo-saaro cusub. Qaar ka mid ah AI-da wax-abuurta (tusaale, ChatGPT) waxay isticmaalaan moodeello afeed ballaaran (LLMs) si ay u abuuraan qoraal, sheekooyin, iyo afgarad u eg qoraalka aadanaha. Kuwa sawirrada curiya waxay ku saleysan yihiin moodeellada AI (sida DALL-E, Midjourney, Stable Diffusion, iwm.) waxaana loo adeegsadaa in la curiyo sawirro nolosha dhabta ah ama mala-awaal ah oo laga allifay tilmaamo qoraal ah. Moodeellada AI GG Curiye waxay inta badan u baahan yihiin qalab khaas ah, kaabayaal kombiyuutarro waa weyn, iyo ilo tamar oo aad u badan. Moodeellada AI GG Curiye waxay wax ka bartaan xog horey u jirtay, laakiin mar walba waxsoosaarkoodu ma ahan kuwo run ah. Bulshooyinka caalamka waxaa ay maanta ka doodayaan fursadaha iyo khataraha AI GG Curiye oo adeegsigiisu sii badanaayo.",
+      "def_so": "Waa nooc ka mid ah garaad gacmeedka oo abuura waxyaabo cusub sida qoraal, sawirro, muusig, iyo afgarad koodh iyadoo la adeegsanayo xogta lagu tababaray, si u eg hal-abuurka aadanaha. Nidaamyadan AI waxay wax ka bartaan xogo ballaaran si ay u soo saaraan wax-soo-saaro cusub. Qaar ka mid ah GG-da wax-abuurta (tusaale, ChatGPT) waxay isticmaalaan moodeello afeed ballaaran (LLMs) si ay u abuuraan qoraal, sheekooyin, iyo afgarad u eg qoraalka aadanaha. Kuwa sawirrada curiya waxay ku saleysan yihiin moodeellada AI (sida DALL-E, Midjourney, Stable Diffusion, iwm.) waxaana loo adeegsadaa in la curiyo sawirro nolosha dhabta ah ama mala-awaal ah oo laga allifay tilmaamo qoraal ah. Moodeellada GG Curiye waxay inta badan u baahan yihiin qalab khaas ah, kaabayaal kombiyuutarro waa weyn, iyo ilo tamar oo aad u badan. Moodeellada GG Curiye waxay wax ka bartaan xog horey u jirtay, laakiin mar walba waxsoosaarkoodu ma ahan kuwo run ah. Bulshooyinka caalamka waxaa ay maanta ka doodayaan fursadaha iyo khataraha GG Curiye oo adeegsigiisu sii badanaayo.",
       "def_en": "Generative AI is a type of artificial intelligence that can create new content like text, images, music, and code, based on the data it's trained on, mimicking human creativity. These AI systems learn patterns and structures from massive datasets in order to generate new outputs. Some generative AI (like ChatGPT) use large language models to create human-like text, stories, and code. Image-based AI models (like DALL-E and Midjourney) can create realistic or surreal images from text prompts. Generative AI models often require large-scale computing infrastructure and massive amounts of energy. Generative AI makes predictions based on existing data, it does not always represent the truth. Societies around the world are debating the opportunities and risks of generative AI as it becomes used more widely in society.",
       "relation": "link",
       "directed": true
@@ -1996,7 +1996,7 @@
       "weight": 2,
       "term_so": "GG Curiyeed",
       "term_en": "Generative AI",
-      "def_so": "Waa nooc ka mid ah kasmo gacmeedka oo abuura waxyaabo cusub sida qoraal, sawirro, muusig, iyo afgarad koodh iyadoo la adeegsanayo xogta lagu tababaray, si u eg hal-abuurka aadanaha. Nidaamyadan AI waxay wax ka bartaan xogo ballaaran si ay u soo saaraan wax-soo-saaro cusub. Qaar ka mid ah AI-da wax-abuurta (tusaale, ChatGPT) waxay isticmaalaan moodeello afeed ballaaran (LLMs) si ay u abuuraan qoraal, sheekooyin, iyo afgarad u eg qoraalka aadanaha. Kuwa sawirrada curiya waxay ku saleysan yihiin moodeellada AI (sida DALL-E, Midjourney, Stable Diffusion, iwm.) waxaana loo adeegsadaa in la curiyo sawirro nolosha dhabta ah ama mala-awaal ah oo laga allifay tilmaamo qoraal ah. Moodeellada AI GG Curiye waxay inta badan u baahan yihiin qalab khaas ah, kaabayaal kombiyuutarro waa weyn, iyo ilo tamar oo aad u badan. Moodeellada AI GG Curiye waxay wax ka bartaan xog horey u jirtay, laakiin mar walba waxsoosaarkoodu ma ahan kuwo run ah. Bulshooyinka caalamka waxaa ay maanta ka doodayaan fursadaha iyo khataraha AI GG Curiye oo adeegsigiisu sii badanaayo.",
+      "def_so": "Waa nooc ka mid ah garaad gacmeedka oo abuura waxyaabo cusub sida qoraal, sawirro, muusig, iyo afgarad koodh iyadoo la adeegsanayo xogta lagu tababaray, si u eg hal-abuurka aadanaha. Nidaamyadan AI waxay wax ka bartaan xogo ballaaran si ay u soo saaraan wax-soo-saaro cusub. Qaar ka mid ah GG-da wax-abuurta (tusaale, ChatGPT) waxay isticmaalaan moodeello afeed ballaaran (LLMs) si ay u abuuraan qoraal, sheekooyin, iyo afgarad u eg qoraalka aadanaha. Kuwa sawirrada curiya waxay ku saleysan yihiin moodeellada AI (sida DALL-E, Midjourney, Stable Diffusion, iwm.) waxaana loo adeegsadaa in la curiyo sawirro nolosha dhabta ah ama mala-awaal ah oo laga allifay tilmaamo qoraal ah. Moodeellada GG Curiye waxay inta badan u baahan yihiin qalab khaas ah, kaabayaal kombiyuutarro waa weyn, iyo ilo tamar oo aad u badan. Moodeellada GG Curiye waxay wax ka bartaan xog horey u jirtay, laakiin mar walba waxsoosaarkoodu ma ahan kuwo run ah. Bulshooyinka caalamka waxaa ay maanta ka doodayaan fursadaha iyo khataraha GG Curiye oo adeegsigiisu sii badanaayo.",
       "def_en": "Generative AI is a type of artificial intelligence that can create new content like text, images, music, and code, based on the data it's trained on, mimicking human creativity. These AI systems learn patterns and structures from massive datasets in order to generate new outputs. Some generative AI (like ChatGPT) use large language models to create human-like text, stories, and code. Image-based AI models (like DALL-E and Midjourney) can create realistic or surreal images from text prompts. Generative AI models often require large-scale computing infrastructure and massive amounts of energy. Generative AI makes predictions based on existing data, it does not always represent the truth. Societies around the world are debating the opportunities and risks of generative AI as it becomes used more widely in society.",
       "relation": "link",
       "directed": true
@@ -2007,7 +2007,7 @@
       "weight": 2,
       "term_so": "GG Curiyeed",
       "term_en": "Generative AI",
-      "def_so": "Waa nooc ka mid ah kasmo gacmeedka oo abuura waxyaabo cusub sida qoraal, sawirro, muusig, iyo afgarad koodh iyadoo la adeegsanayo xogta lagu tababaray, si u eg hal-abuurka aadanaha. Nidaamyadan AI waxay wax ka bartaan xogo ballaaran si ay u soo saaraan wax-soo-saaro cusub. Qaar ka mid ah AI-da wax-abuurta (tusaale, ChatGPT) waxay isticmaalaan moodeello afeed ballaaran (LLMs) si ay u abuuraan qoraal, sheekooyin, iyo afgarad u eg qoraalka aadanaha. Kuwa sawirrada curiya waxay ku saleysan yihiin moodeellada AI (sida DALL-E, Midjourney, Stable Diffusion, iwm.) waxaana loo adeegsadaa in la curiyo sawirro nolosha dhabta ah ama mala-awaal ah oo laga allifay tilmaamo qoraal ah. Moodeellada AI GG Curiye waxay inta badan u baahan yihiin qalab khaas ah, kaabayaal kombiyuutarro waa weyn, iyo ilo tamar oo aad u badan. Moodeellada AI GG Curiye waxay wax ka bartaan xog horey u jirtay, laakiin mar walba waxsoosaarkoodu ma ahan kuwo run ah. Bulshooyinka caalamka waxaa ay maanta ka doodayaan fursadaha iyo khataraha AI GG Curiye oo adeegsigiisu sii badanaayo.",
+      "def_so": "Waa nooc ka mid ah garaad gacmeedka oo abuura waxyaabo cusub sida qoraal, sawirro, muusig, iyo afgarad koodh iyadoo la adeegsanayo xogta lagu tababaray, si u eg hal-abuurka aadanaha. Nidaamyadan AI waxay wax ka bartaan xogo ballaaran si ay u soo saaraan wax-soo-saaro cusub. Qaar ka mid ah GG-da wax-abuurta (tusaale, ChatGPT) waxay isticmaalaan moodeello afeed ballaaran (LLMs) si ay u abuuraan qoraal, sheekooyin, iyo afgarad u eg qoraalka aadanaha. Kuwa sawirrada curiya waxay ku saleysan yihiin moodeellada AI (sida DALL-E, Midjourney, Stable Diffusion, iwm.) waxaana loo adeegsadaa in la curiyo sawirro nolosha dhabta ah ama mala-awaal ah oo laga allifay tilmaamo qoraal ah. Moodeellada GG Curiye waxay inta badan u baahan yihiin qalab khaas ah, kaabayaal kombiyuutarro waa weyn, iyo ilo tamar oo aad u badan. Moodeellada GG Curiye waxay wax ka bartaan xog horey u jirtay, laakiin mar walba waxsoosaarkoodu ma ahan kuwo run ah. Bulshooyinka caalamka waxaa ay maanta ka doodayaan fursadaha iyo khataraha GG Curiye oo adeegsigiisu sii badanaayo.",
       "def_en": "Generative AI is a type of artificial intelligence that can create new content like text, images, music, and code, based on the data it's trained on, mimicking human creativity. These AI systems learn patterns and structures from massive datasets in order to generate new outputs. Some generative AI (like ChatGPT) use large language models to create human-like text, stories, and code. Image-based AI models (like DALL-E and Midjourney) can create realistic or surreal images from text prompts. Generative AI models often require large-scale computing infrastructure and massive amounts of energy. Generative AI makes predictions based on existing data, it does not always represent the truth. Societies around the world are debating the opportunities and risks of generative AI as it becomes used more widely in society.",
       "relation": "link",
       "directed": true
@@ -2018,7 +2018,7 @@
       "weight": 2,
       "term_so": "GG Curiyeed",
       "term_en": "Generative AI",
-      "def_so": "Waa nooc ka mid ah kasmo gacmeedka oo abuura waxyaabo cusub sida qoraal, sawirro, muusig, iyo afgarad koodh iyadoo la adeegsanayo xogta lagu tababaray, si u eg hal-abuurka aadanaha. Nidaamyadan AI waxay wax ka bartaan xogo ballaaran si ay u soo saaraan wax-soo-saaro cusub. Qaar ka mid ah AI-da wax-abuurta (tusaale, ChatGPT) waxay isticmaalaan moodeello afeed ballaaran (LLMs) si ay u abuuraan qoraal, sheekooyin, iyo afgarad u eg qoraalka aadanaha. Kuwa sawirrada curiya waxay ku saleysan yihiin moodeellada AI (sida DALL-E, Midjourney, Stable Diffusion, iwm.) waxaana loo adeegsadaa in la curiyo sawirro nolosha dhabta ah ama mala-awaal ah oo laga allifay tilmaamo qoraal ah. Moodeellada AI GG Curiye waxay inta badan u baahan yihiin qalab khaas ah, kaabayaal kombiyuutarro waa weyn, iyo ilo tamar oo aad u badan. Moodeellada AI GG Curiye waxay wax ka bartaan xog horey u jirtay, laakiin mar walba waxsoosaarkoodu ma ahan kuwo run ah. Bulshooyinka caalamka waxaa ay maanta ka doodayaan fursadaha iyo khataraha AI GG Curiye oo adeegsigiisu sii badanaayo.",
+      "def_so": "Waa nooc ka mid ah garaad gacmeedka oo abuura waxyaabo cusub sida qoraal, sawirro, muusig, iyo afgarad koodh iyadoo la adeegsanayo xogta lagu tababaray, si u eg hal-abuurka aadanaha. Nidaamyadan AI waxay wax ka bartaan xogo ballaaran si ay u soo saaraan wax-soo-saaro cusub. Qaar ka mid ah GG-da wax-abuurta (tusaale, ChatGPT) waxay isticmaalaan moodeello afeed ballaaran (LLMs) si ay u abuuraan qoraal, sheekooyin, iyo afgarad u eg qoraalka aadanaha. Kuwa sawirrada curiya waxay ku saleysan yihiin moodeellada AI (sida DALL-E, Midjourney, Stable Diffusion, iwm.) waxaana loo adeegsadaa in la curiyo sawirro nolosha dhabta ah ama mala-awaal ah oo laga allifay tilmaamo qoraal ah. Moodeellada GG Curiye waxay inta badan u baahan yihiin qalab khaas ah, kaabayaal kombiyuutarro waa weyn, iyo ilo tamar oo aad u badan. Moodeellada GG Curiye waxay wax ka bartaan xog horey u jirtay, laakiin mar walba waxsoosaarkoodu ma ahan kuwo run ah. Bulshooyinka caalamka waxaa ay maanta ka doodayaan fursadaha iyo khataraha GG Curiye oo adeegsigiisu sii badanaayo.",
       "def_en": "Generative AI is a type of artificial intelligence that can create new content like text, images, music, and code, based on the data it's trained on, mimicking human creativity. These AI systems learn patterns and structures from massive datasets in order to generate new outputs. Some generative AI (like ChatGPT) use large language models to create human-like text, stories, and code. Image-based AI models (like DALL-E and Midjourney) can create realistic or surreal images from text prompts. Generative AI models often require large-scale computing infrastructure and massive amounts of energy. Generative AI makes predictions based on existing data, it does not always represent the truth. Societies around the world are debating the opportunities and risks of generative AI as it becomes used more widely in society.",
       "relation": "link",
       "directed": true
@@ -2029,7 +2029,7 @@
       "weight": 1,
       "term_so": "GG Curiyeed",
       "term_en": "Generative AI",
-      "def_so": "Waa nooc ka mid ah kasmo gacmeedka oo abuura waxyaabo cusub sida qoraal, sawirro, muusig, iyo afgarad koodh iyadoo la adeegsanayo xogta lagu tababaray, si u eg hal-abuurka aadanaha. Nidaamyadan AI waxay wax ka bartaan xogo ballaaran si ay u soo saaraan wax-soo-saaro cusub. Qaar ka mid ah AI-da wax-abuurta (tusaale, ChatGPT) waxay isticmaalaan moodeello afeed ballaaran (LLMs) si ay u abuuraan qoraal, sheekooyin, iyo afgarad u eg qoraalka aadanaha. Kuwa sawirrada curiya waxay ku saleysan yihiin moodeellada AI (sida DALL-E, Midjourney, Stable Diffusion, iwm.) waxaana loo adeegsadaa in la curiyo sawirro nolosha dhabta ah ama mala-awaal ah oo laga allifay tilmaamo qoraal ah. Moodeellada AI GG Curiye waxay inta badan u baahan yihiin qalab khaas ah, kaabayaal kombiyuutarro waa weyn, iyo ilo tamar oo aad u badan. Moodeellada AI GG Curiye waxay wax ka bartaan xog horey u jirtay, laakiin mar walba waxsoosaarkoodu ma ahan kuwo run ah. Bulshooyinka caalamka waxaa ay maanta ka doodayaan fursadaha iyo khataraha AI GG Curiye oo adeegsigiisu sii badanaayo.",
+      "def_so": "Waa nooc ka mid ah garaad gacmeedka oo abuura waxyaabo cusub sida qoraal, sawirro, muusig, iyo afgarad koodh iyadoo la adeegsanayo xogta lagu tababaray, si u eg hal-abuurka aadanaha. Nidaamyadan AI waxay wax ka bartaan xogo ballaaran si ay u soo saaraan wax-soo-saaro cusub. Qaar ka mid ah GG-da wax-abuurta (tusaale, ChatGPT) waxay isticmaalaan moodeello afeed ballaaran (LLMs) si ay u abuuraan qoraal, sheekooyin, iyo afgarad u eg qoraalka aadanaha. Kuwa sawirrada curiya waxay ku saleysan yihiin moodeellada AI (sida DALL-E, Midjourney, Stable Diffusion, iwm.) waxaana loo adeegsadaa in la curiyo sawirro nolosha dhabta ah ama mala-awaal ah oo laga allifay tilmaamo qoraal ah. Moodeellada GG Curiye waxay inta badan u baahan yihiin qalab khaas ah, kaabayaal kombiyuutarro waa weyn, iyo ilo tamar oo aad u badan. Moodeellada GG Curiye waxay wax ka bartaan xog horey u jirtay, laakiin mar walba waxsoosaarkoodu ma ahan kuwo run ah. Bulshooyinka caalamka waxaa ay maanta ka doodayaan fursadaha iyo khataraha GG Curiye oo adeegsigiisu sii badanaayo.",
       "def_en": "Generative AI is a type of artificial intelligence that can create new content like text, images, music, and code, based on the data it's trained on, mimicking human creativity. These AI systems learn patterns and structures from massive datasets in order to generate new outputs. Some generative AI (like ChatGPT) use large language models to create human-like text, stories, and code. Image-based AI models (like DALL-E and Midjourney) can create realistic or surreal images from text prompts. Generative AI models often require large-scale computing infrastructure and massive amounts of energy. Generative AI makes predictions based on existing data, it does not always represent the truth. Societies around the world are debating the opportunities and risks of generative AI as it becomes used more widely in society.",
       "relation": "link",
       "directed": true
@@ -2194,7 +2194,7 @@
       "weight": 2,
       "term_so": "Moodeello Xog-dooriye",
       "term_en": "Transformer Models",
-      "def_so": "Waa nooc ka mid ah moodeellada kasmo gacmeedka ah ee loo qaabeeyey si ay u fahmaan una abuuraan silsilado xog ah—sida jumlado—iyadoo fiiro gaar ah la siinayo dhammaan qaybaha gashiga. Waxa loo adeegsadaa agabka luqadaha sida falanqaynta sawirrada.",
+      "def_so": "Waa nooc ka mid ah moodeellada garaad gacmeedka ah ee loo qaabeeyey si ay u fahmaan una abuuraan silsilado xog ah—sida jumlado—iyadoo fiiro gaar ah la siinayo dhammaan qaybaha gashiga. Waxa loo adeegsadaa agabka luqadaha sida falanqaynta sawirrada.",
       "def_en": "Transformers are a type of AI model designed to understand and generate sequences—like sentences—by paying attention to all parts of the input at once. They are used in advanced language tools and in areas like image analysis",
       "relation": "link",
       "directed": true
@@ -2205,7 +2205,7 @@
       "weight": 2,
       "term_so": "Moodeello Xog-dooriye",
       "term_en": "Transformer Models",
-      "def_so": "Waa nooc ka mid ah moodeellada kasmo gacmeedka ah ee loo qaabeeyey si ay u fahmaan una abuuraan silsilado xog ah—sida jumlado—iyadoo fiiro gaar ah la siinayo dhammaan qaybaha gashiga. Waxa loo adeegsadaa agabka luqadaha sida falanqaynta sawirrada.",
+      "def_so": "Waa nooc ka mid ah moodeellada garaad gacmeedka ah ee loo qaabeeyey si ay u fahmaan una abuuraan silsilado xog ah—sida jumlado—iyadoo fiiro gaar ah la siinayo dhammaan qaybaha gashiga. Waxa loo adeegsadaa agabka luqadaha sida falanqaynta sawirrada.",
       "def_en": "Transformers are a type of AI model designed to understand and generate sequences—like sentences—by paying attention to all parts of the input at once. They are used in advanced language tools and in areas like image analysis",
       "relation": "link",
       "directed": true
@@ -2216,7 +2216,7 @@
       "weight": 2,
       "term_so": "Muuqaal Curin",
       "term_en": "Video Generation",
-      "def_so": "Waa nooc ka mid ah AI GG Curiye wuxuu abuuraa muuqaallo cusub isagoo baranaya qaababka dhaqdhaqaaqa iyo muuqaallada laga helay duubisyo hore. Waxay soo saartaa muuqaallo dhab u eg ama mala-awaal ah iyadoo lagu salaynayo waxyaabaha la geliyo sida tilmaamo qoraal ama sawirro.",
+      "def_so": "Waa nooc ka mid ah GG Curiye wuxuu abuuraa muuqaallo cusub isagoo baranaya qaababka dhaqdhaqaaqa iyo muuqaallada laga helay duubisyo hore. Waxay soo saartaa muuqaallo dhab u eg ama mala-awaal ah iyadoo lagu salaynayo waxyaabaha la geliyo sida tilmaamo qoraal ama sawirro.",
       "def_en": "Video generation is a type of GG Curiyeed (Generative AI) that creates new videos by learning patterns of motion and visuals from existing footage. It produces realistic or imaginative scenes based on inputs like text prompts or images.",
       "relation": "link",
       "directed": true
@@ -2227,7 +2227,7 @@
       "weight": 2,
       "term_so": "Muuqaal Curin",
       "term_en": "Video Generation",
-      "def_so": "Waa nooc ka mid ah AI GG Curiye wuxuu abuuraa muuqaallo cusub isagoo baranaya qaababka dhaqdhaqaaqa iyo muuqaallada laga helay duubisyo hore. Waxay soo saartaa muuqaallo dhab u eg ama mala-awaal ah iyadoo lagu salaynayo waxyaabaha la geliyo sida tilmaamo qoraal ama sawirro.",
+      "def_so": "Waa nooc ka mid ah GG Curiye wuxuu abuuraa muuqaallo cusub isagoo baranaya qaababka dhaqdhaqaaqa iyo muuqaallada laga helay duubisyo hore. Waxay soo saartaa muuqaallo dhab u eg ama mala-awaal ah iyadoo lagu salaynayo waxyaabaha la geliyo sida tilmaamo qoraal ama sawirro.",
       "def_en": "Video generation is a type of GG Curiyeed (Generative AI) that creates new videos by learning patterns of motion and visuals from existing footage. It produces realistic or imaginative scenes based on inputs like text prompts or images.",
       "relation": "link",
       "directed": true
@@ -2238,7 +2238,7 @@
       "weight": 2,
       "term_so": "Muuqaal Curin",
       "term_en": "Video Generation",
-      "def_so": "Waa nooc ka mid ah AI GG Curiye wuxuu abuuraa muuqaallo cusub isagoo baranaya qaababka dhaqdhaqaaqa iyo muuqaallada laga helay duubisyo hore. Waxay soo saartaa muuqaallo dhab u eg ama mala-awaal ah iyadoo lagu salaynayo waxyaabaha la geliyo sida tilmaamo qoraal ama sawirro.",
+      "def_so": "Waa nooc ka mid ah GG Curiye wuxuu abuuraa muuqaallo cusub isagoo baranaya qaababka dhaqdhaqaaqa iyo muuqaallada laga helay duubisyo hore. Waxay soo saartaa muuqaallo dhab u eg ama mala-awaal ah iyadoo lagu salaynayo waxyaabaha la geliyo sida tilmaamo qoraal ama sawirro.",
       "def_en": "Video generation is a type of GG Curiyeed (Generative AI) that creates new videos by learning patterns of motion and visuals from existing footage. It produces realistic or imaginative scenes based on inputs like text prompts or images.",
       "relation": "link",
       "directed": true
@@ -2834,6 +2834,61 @@
       "term_en": "Prediction",
       "def_so": "Waa bayaan sheegaya waxa aad filayso inay dhici doonto; falka ah in la sameeyo bayaan noocaas ah.",
       "def_en": "A statement that says what you think will happen; the act of making such a statement.",
+      "relation": "link",
+      "directed": true
+    },
+    {
+      "source_id": "intarnet",
+      "target_id": "walxaha intarnetka",
+      "weight": 2,
+      "term_so": "Intarnet",
+      "term_en": "Internet",
+      "def_so": "Waa nidaamka caalamiga ah ee isku xira shabakado kombiyuutar oo kala duwan.",
+      "def_en": "The global system of interconnected computer networks.",
+      "relation": "link",
+      "directed": true
+    },
+    {
+      "source_id": "intarnet",
+      "target_id": "xarumo xogeed",
+      "weight": 2,
+      "term_so": "Intarnet",
+      "term_en": "Internet",
+      "def_so": "Waa nidaamka caalamiga ah ee isku xira shabakado kombiyuutar oo kala duwan.",
+      "def_en": "The global system of interconnected computer networks.",
+      "relation": "link",
+      "directed": true
+    },
+    {
+      "source_id": "intarnet",
+      "target_id": "iswadid",
+      "weight": 2,
+      "term_so": "Intarnet",
+      "term_en": "Internet",
+      "def_so": "Waa nidaamka caalamiga ah ee isku xira shabakado kombiyuutar oo kala duwan.",
+      "def_en": "The global system of interconnected computer networks.",
+      "relation": "link",
+      "directed": true
+    },
+    {
+      "source_id": "intarnet",
+      "target_id": "kaabayaal",
+      "weight": 2,
+      "term_so": "Intarnet",
+      "term_en": "Internet",
+      "def_so": "Waa nidaamka caalamiga ah ee isku xira shabakado kombiyuutar oo kala duwan.",
+      "def_en": "The global system of interconnected computer networks.",
+      "relation": "link",
+      "directed": true
+    },
+    {
+      "source_id": "intarnet",
+      "target_id": "daruur kombuyuutareed",
+      "weight": 2,
+      "term_so": "Intarnet",
+      "term_en": "Internet",
+      "def_so": "Waa nidaamka caalamiga ah ee isku xira shabakado kombiyuutar oo kala duwan.",
+      "def_en": "The global system of interconnected computer networks.",
       "relation": "link",
       "directed": true
     }

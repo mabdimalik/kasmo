@@ -18,6 +18,8 @@ website:
         text: "Kasmo"
       - href: about.qmd
         text: "About Kasmo"
+      - href: kasmo.qmd
+        text: "Ku Saabsan Kasmo"
 
   page-footer:
     left: "© Kasmo AI Lexicon 2025 — <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'>CC BY-NC-SA 4.0</a>"

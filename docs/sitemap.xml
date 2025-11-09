@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://kasmo.so/about.html</loc>
-    <lastmod>2025-11-06T08:21:24.361Z</lastmod>
+    <loc>https://kasmo.so/kasmo.html</loc>
+    <lastmod>2025-11-09T12:25:50.768Z</lastmod>
   </url>
   <url>
     <loc>https://kasmo.so/index.html</loc>
-    <lastmod>2025-11-09T05:33:07.188Z</lastmod>
+    <lastmod>2025-11-09T12:12:25.754Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kasmo.so/about.html</loc>
+    <lastmod>2025-11-09T12:26:15.891Z</lastmod>
   </url>
 </urlset>
