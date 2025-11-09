@@ -1,17 +1,17 @@
 ---
-title: "Garaad Gacmeed Lexicon"
-subtitle: "Garaad bridges Somali and English to make AI concepts understandable and open to conversation. Learn more [here](about.qmd)."
+title: "Kasmo AI Lexicon"
+subtitle: "Kasmo bridges Somali and English to make AI concepts understandable and open to conversation. Learn more [here](about.qmd)."
 format:
   html:
     toc: false
     include-in-header:
       text: |
-        <meta property="og:title" content="Garaad Gacmeed Lexicon">
+        <meta property="og:title" content="Kasmo AI Lexicon">
         <meta property="og:description" content="An open collective lexicon for AI in Somali.">
         <meta property="og:image" content="https://kasmo.so/www/img/og-cover.png">
         <meta property="og:url" content="https://kasmo.so">
         <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:title" content="Garaad Gacmeed Lexicon">
+        <meta name="twitter:title" content="Kasmo AI Lexicon">
         <meta name="twitter:description" content="An open collective lexicon for AI in Somali.">
         <meta name="twitter:image" content="https://kasmo.so/www/img/og-cover.png">
         <link rel="stylesheet" href="www/css/site.css">
